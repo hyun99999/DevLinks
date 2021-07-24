@@ -3,6 +3,7 @@
 ### INDEX
 - [Swift](#swift)
 - [Initialization](#initialization)
+- [UISearchController](#uisearchcontroller)
 - [to Read](#to-read)
 ---
 
@@ -20,6 +21,10 @@
 - [x] initialization(1/3) : https://wlaxhrl.tistory.com/47
 - [x] initialization(2/3) : https://wlaxhrl.tistory.com/48
 - [x] initialization(3/3) : https://wlaxhrl.tistory.com/49
+
+### UISearchController
+- [x] UISearchController(1/2) : https://zeddios.tistory.com/1196
+- [x] UISearchController(2/2) : https://zeddios.tistory.com/1199
 
 ### to Read
 
