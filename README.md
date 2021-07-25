@@ -28,8 +28,3 @@
 - [x] UISearchController(2/2) : https://zeddios.tistory.com/1199
 
 ### to Read
-
-- [ ] https://jinsangjin.tistory.com/137
-- [ ] http://minsone.github.io/mac/ios/swift-initialization-summary
-- [ ] https://batterflyyin.tistory.com/22
-- [ ] https://wlaxhrl.tistory.com/49
