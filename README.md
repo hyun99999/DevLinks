@@ -5,6 +5,8 @@
 - [Initialization](#initialization)
 - [UISearchController](#uisearchcontroller)
 - [Keyboard issue](#keyboard-issue)
+- [Coordinator 패턴](#coordinator-패턴)
+- [DispatchQueue](#dispatchqueue)
 - [to Read](#to-read)
 ---
 
@@ -26,7 +28,6 @@
 ### UISearchController
 - [x] UISearchController(1/2) : https://zeddios.tistory.com/1196
 - [x] UISearchController(2/2) : https://zeddios.tistory.com/1199
-
 
 #### Keyboard issue
 - [x] 터치해서 키보드 내리기 : https://zeddios.tistory.com/m/132
