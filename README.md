@@ -35,4 +35,12 @@
 ### Coordinator 패턴
 - [x] coordinator 패턴(브랜디 기술블로그) : http://labs.brandi.co.kr/2020/06/16/kimjh.html
 
+### DispatchQueue
+- [x] dispatchqueue(1) : https://zeddios.tistory.com/516
+- [x] dispatchqueue 활용(1): https://onelife2live.tistory.com/4
+- [x] dispatchqueue(2) : https://zeddios.tistory.com/520
+- [x] Concurrency Programming Guide - Dispatch Queues : https://zeddios.tistory.com/513
+- [x] main.sync 를 하면 안될까? : https://zeddios.tistory.com/519
+
+
 ### to Read
