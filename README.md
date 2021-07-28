@@ -29,7 +29,7 @@
 - [x] UISearchController(1/2) : https://zeddios.tistory.com/1196
 - [x] UISearchController(2/2) : https://zeddios.tistory.com/1199
 
-#### Keyboard issue
+### Keyboard issue
 - [x] 터치해서 키보드 내리기 : https://zeddios.tistory.com/m/132
 - [x] 키보드에 따라 동적으로 움직이는 스크롤뷰 : https://seizze.github.io/2019/11/17/iOS에서-키보드에-동적인-스크롤뷰-만들기.html
 
@@ -37,11 +37,11 @@
 - [x] coordinator 패턴(브랜디 기술블로그) : http://labs.brandi.co.kr/2020/06/16/kimjh.html
 
 ### DispatchQueue
-- [x] dispatchqueue(1) : https://zeddios.tistory.com/516
-- [x] dispatchqueue 활용(1): https://onelife2live.tistory.com/4
-- [x] dispatchqueue(2) : https://zeddios.tistory.com/520
+- [x] DispatchQueue(1) : https://zeddios.tistory.com/516
+- [x] DispatchQueue(2) : https://zeddios.tistory.com/520
+- [x] aync & sync : https://onelife2live.tistory.com/4
+- [x] DispatchSemaphore : https://onelife2live.tistory.com/5
 - [x] Concurrency Programming Guide - Dispatch Queues : https://zeddios.tistory.com/513
 - [x] main.sync 를 하면 안될까? : https://zeddios.tistory.com/519
-
 
 ### to Read
