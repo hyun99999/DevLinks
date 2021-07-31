@@ -8,6 +8,7 @@
 - [Coordinator 패턴](#coordinator-패턴)
 - [DispatchQueue](#dispatchqueue)
 - [Dark Mode 설정](#dark-mode-설정)
+- [Widget](#widget)
 - [to Read](#to-read)
 ---
 
@@ -44,6 +45,10 @@
 - [x] DispatchSemaphore : https://onelife2live.tistory.com/5
 - [x] Concurrency Programming Guide - Dispatch Queues : https://zeddios.tistory.com/513
 - [x] main.sync 를 하면 안될까? : https://zeddios.tistory.com/519
+
+### Widget
+- [x] zedd widget(1): https://zeddios.tistory.com/1088
+- [x] zedd widget(2): https://zeddios.tistory.com/1089
 
 ### Dark Mode 설정
 - [x] 다크모드(브랜디 기술블로그) : http://labs.brandi.co.kr/2019/12/19/kimjh.html
