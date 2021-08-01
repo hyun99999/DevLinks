@@ -47,8 +47,9 @@
 - [x] main.sync 를 하면 안될까? : https://zeddios.tistory.com/519
 
 ### Widget
-- [x] zedd widget(1): https://zeddios.tistory.com/1088
-- [x] zedd widget(2): https://zeddios.tistory.com/1089
+- [x] zedd widget(1) : https://zeddios.tistory.com/1088
+- [x] zedd widget(2) : https://zeddios.tistory.com/1089
+- [x] zedd widget(3) : https://zeddios.tistory.com/m/1092
 
 ### Dark Mode 설정
 - [x] 다크모드(브랜디 기술블로그) : http://labs.brandi.co.kr/2019/12/19/kimjh.html
