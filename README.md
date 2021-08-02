@@ -9,6 +9,7 @@
 - [DispatchQueue](#dispatchqueue)
 - [Dark Mode 설정](#dark-mode-설정)
 - [Widget](#widget)
+- [RxSwift](#rxswift)
 - [to Read](#to-read)
 ---
 
@@ -53,5 +54,8 @@
 
 ### Dark Mode 설정
 - [x] 다크모드(브랜디 기술블로그) : http://labs.brandi.co.kr/2019/12/19/kimjh.html
+
+### RxSwift
+- [x] RxSwift 스터디 깃허브 :  https://github.com/5anniversary/RxSwiftStudy/blob/main/week1.md
 
 ### to Read
