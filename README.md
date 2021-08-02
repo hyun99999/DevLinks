@@ -18,6 +18,7 @@
 - [x] Main.storyboard 없이 프로젝트 시작하기 : https://developer-fury.tistory.com/41
 - [x] get,post : https://velog.io/@songyouhyun/Get과-Post의-차이를-아시나요
 - [x] AppDelegate, SceneDelegate : https://ios-development.tistory.com/53
+- [x] scene delegate 백그라운드 처리 : https://gonslab.tistory.com/49
 
 ### Swift
 - [x] swift 5.0 변경사항 : https://zeddios.tistory.com/680
