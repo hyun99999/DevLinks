@@ -19,6 +19,7 @@
 - [x] get,post : https://velog.io/@songyouhyun/Get과-Post의-차이를-아시나요
 - [x] AppDelegate, SceneDelegate : https://ios-development.tistory.com/53
 - [x] scene delegate 백그라운드 처리 : https://gonslab.tistory.com/49
+- [x] cell Life Cycle : https://jinnify.tistory.com/58
 
 ### Swift
 - [x] swift 5.0 변경사항 : https://zeddios.tistory.com/680
