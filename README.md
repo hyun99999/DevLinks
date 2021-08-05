@@ -10,6 +10,7 @@
 - [Dark Mode 설정](#dark-mode-설정)
 - [Widget](#widget)
 - [RxSwift](#rxswift)
+- [Charts open library](#charts-open-library)
 - [to Read](#to-read)
 ---
 
@@ -20,6 +21,8 @@
 - [x] AppDelegate, SceneDelegate : https://ios-development.tistory.com/53
 - [x] scene delegate 백그라운드 처리 : https://gonslab.tistory.com/49
 - [x] cell Life Cycle : https://jinnify.tistory.com/58
+- [x] 문자열 : https://batterflyyin.tistory.com/22
+- [x] delegation 데이터 전달 : https://roniruny.tistory.com/139
 
 ### Swift
 - [x] swift 5.0 변경사항 : https://zeddios.tistory.com/680
@@ -59,5 +62,9 @@
 
 ### RxSwift
 - [x] RxSwift 스터디 깃허브 :  https://github.com/5anniversary/RxSwiftStudy/blob/main/week1.md
+
+### Charts open library
+- [x] 차트 라이브러리 : https://gonslab.tistory.com/11?category=906018
+- [x] gitCat 에서 Charts 사용 : https://blog.naver.com/yoon980208/222076657031
 
 ### to Read
