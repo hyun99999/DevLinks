@@ -11,6 +11,7 @@
 - [Widget](#widget)
 - [RxSwift](#rxswift)
 - [Charts open library](#charts-open-library)
+- [UIVisualEffect](#uivisualeffect)
 - [to Read](#to-read)
 ---
 
@@ -66,5 +67,8 @@
 ### Charts open library
 - [x] 차트 라이브러리 : https://gonslab.tistory.com/11?category=906018
 - [x] gitCat 에서 Charts 사용 : https://blog.naver.com/yoon980208/222076657031
+
+### UIVisualEffect
+- [x] zedd UIVisualEffect : https://zeddios.tistory.com/1140
 
 ### to Read
