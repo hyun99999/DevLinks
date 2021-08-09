@@ -12,6 +12,7 @@
 - [RxSwift](#rxswift)
 - [Charts open library](#charts-open-library)
 - [UIVisualEffect](#uivisualeffect)
+- [UIBezierPath](#uibezierpath)
 - [to Read](#to-read)
 ---
 
@@ -72,5 +73,8 @@
 
 ### UIVisualEffect
 - [x] zedd UIVisualEffect : https://zeddios.tistory.com/1140
+
+### UIBezierPath
+- [x] zedd UIBezierPath[1] : https://zeddios.tistory.com/814
 
 ### to Read
