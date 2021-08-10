@@ -79,5 +79,8 @@
 - [x] zedd UIBezierPath[2] : https://zeddios.tistory.com/821
 - [x] zedd UIBezierPath[3] : https://zeddios.tistory.com/822
 - [x] zedd UIBezierPath[4] : https://zeddios.tistory.com/823
+- [x] zedd UIBezierPath[5]-CAShapeLayer[1] : https://zeddios.tistory.com/824
+- [x] zedd UIBezierPath[6] : https://zeddios.tistory.com/846
+- [x] zedd UIBezierPath[7] : https://zeddios.tistory.com/857
 
 ### to Read
