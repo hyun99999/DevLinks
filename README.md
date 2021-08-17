@@ -27,6 +27,7 @@
 - [x] delegation 데이터 전달 : https://roniruny.tistory.com/139
 - [x] UITableView drag&drop : https://furang-note.tistory.com/31?category=885524
 - [x] TTF? OTF? : https://zeddios.tistory.com/198
+- [x] Singleton pattern : https://babbab2.tistory.com/66
 
 ### Swift
 - [x] swift 5.0 변경사항 : https://zeddios.tistory.com/680
