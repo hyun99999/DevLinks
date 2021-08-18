@@ -28,6 +28,7 @@
 - [x] UITableView drag&drop : https://furang-note.tistory.com/31?category=885524
 - [x] TTF? OTF? : https://zeddios.tistory.com/198
 - [x] Singleton pattern : https://babbab2.tistory.com/66
+- [x] AutoLayout programmatically : https://hyunsikwon.github.io/ios/iOS-AutoLayout-01/ 
 
 ### Swift
 - [x] swift 5.0 변경사항 : https://zeddios.tistory.com/680
