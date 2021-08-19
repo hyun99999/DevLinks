@@ -29,7 +29,8 @@
 - [x] TTF? OTF? : https://zeddios.tistory.com/198
 - [x] Singleton pattern : https://babbab2.tistory.com/66
 - [x] AutoLayout programmatically : https://hyunsikwon.github.io/ios/iOS-AutoLayout-01/
-- [x] Swift 5.5 aync/await 살펴보기 : https://seorenn.tistory.com/196 
+- [x] Swift 5.5 aync/await 살펴보기 : https://seorenn.tistory.com/196
+- [x] CAGradientLayer : https://babbab2.tistory.com/55 
 
 ### Swift
 - [x] swift 5.0 변경사항 : https://zeddios.tistory.com/680
