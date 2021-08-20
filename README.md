@@ -40,6 +40,7 @@
 - [x] initialization(1/3) : https://wlaxhrl.tistory.com/47
 - [x] initialization(2/3) : https://wlaxhrl.tistory.com/48
 - [x] initialization(3/3) : https://wlaxhrl.tistory.com/49
+- [x] initialization 정리 : http://minsone.github.io/mac/ios/swift-initialization-summary
 
 ### UISearchController
 - [x] UISearchController(1/2) : https://zeddios.tistory.com/1196
