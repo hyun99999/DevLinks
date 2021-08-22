@@ -53,6 +53,8 @@
 
 ### Coordinator 패턴
 - [x] coordinator 패턴(브랜디 기술블로그) : http://labs.brandi.co.kr/2020/06/16/kimjh.html
+- [x] coordinator - basic : https://lena-chamna.netlify.app/post/ios_design_pattern_coordinator_basic/
+- [x] coordinator - advanced : https://lena-chamna.netlify.app/post/ios_design_pattern_coordinator_advanced/
 
 ### DispatchQueue
 - [x] DispatchQueue(1) : https://zeddios.tistory.com/516
