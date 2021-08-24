@@ -28,7 +28,6 @@
 - [x] delegation 데이터 전달 : https://roniruny.tistory.com/139
 - [x] UITableView drag&drop : https://furang-note.tistory.com/31?category=885524
 - [x] TTF? OTF? : https://zeddios.tistory.com/198
-- [x] Singleton pattern : https://babbab2.tistory.com/66
 - [x] AutoLayout programmatically : https://hyunsikwon.github.io/ios/iOS-AutoLayout-01/
 - [x] Swift 5.5 aync/await 살펴보기 : https://seorenn.tistory.com/196
 - [x] CAGradientLayer : https://babbab2.tistory.com/55 
@@ -96,6 +95,10 @@
 
 ### MapKit
 - [x] MapKit : https://daheenallwhite.github.io/ios/2019/08/07/MKLocalSearchCompleter/
-- [x] MapKit : https://roniruny.tistory.com/157 
+- [x] MapKit : https://roniruny.tistory.com/157
+
+### Singleton pattern
+- [x] Singleton Pattern (싱글턴) - 디자인 패턴 공부 6 : https://icksw.tistory.com/239?category=944177
+- [x] Singleton pattern : https://babbab2.tistory.com/66
 
 ### to Read
