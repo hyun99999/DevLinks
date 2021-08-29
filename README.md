@@ -30,13 +30,13 @@
 - [x] UITableView drag&drop : https://furang-note.tistory.com/31?category=885524
 - [x] TTF? OTF? : https://zeddios.tistory.com/198
 - [x] AutoLayout programmatically : https://hyunsikwon.github.io/ios/iOS-AutoLayout-01/
-- [x] Swift 5.5 aync/await 살펴보기 : https://seorenn.tistory.com/196
 - [x] CAGradientLayer : https://babbab2.tistory.com/55 
 - [x] contentInset, contentOffset : https://zeddios.tistory.com/803
 - [x] namespace 만들기(UIColor extenstion 같은) : https://zeddios.tistory.com/353
 
 ### Swift
 - [x] swift 5.0 변경사항 : https://zeddios.tistory.com/680
+- [x] Swift 5.5 aync/await 살펴보기 : https://seorenn.tistory.com/196
 - [x] try? : https://zeddios.tistory.com/650
 
 ### Initialization
