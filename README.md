@@ -31,6 +31,7 @@
 - [x] CAGradientLayer : https://babbab2.tistory.com/55 
 - [x] contentInset, contentOffset : https://zeddios.tistory.com/803
 - [x] namespace 만들기(UIColor extenstion 같은) : https://zeddios.tistory.com/353
+- [x] Generic : https://zeddios.tistory.com/m/226
 
 ### Swift
 - [x] swift 5.0 변경사항 : https://zeddios.tistory.com/680
