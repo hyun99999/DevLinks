@@ -14,6 +14,7 @@
 - [UIVisualEffect](#uivisualeffect)
 - [UIBezierPath](#uibezierpath)
 - [MapKit](#mapkit)
+- [DesignPattern MVVM](#designpattern-mvvm)
 - [to Read](#to-read)
 ---
 
@@ -106,5 +107,11 @@
 - [x] Main.storyboard 없이 프로젝트 시작하기 : https://developer-fury.tistory.com/41
 - [x] Remove Storyboard : https://velog.io/@fenta0917/00.RemoveStoryBoard
 - [x] 스토리보드 없이 코드로만 UI 구현하기 : https://velog.io/@lina0322/iOSSwift-스토리보드-없이-코드로만-UI-구현하기-SceneDelegate에서-window설정
+
+### DesignPattern MVVM
+- [x] MVVM패턴에 대하여 글쓴이의 고민 : https://jisoo.net/2018/12/09/what-is-mvvm.html
+- [x] 간단한 network + MVVM패턴 : https://haningya.tistory.com/67
+- [x] iOS에서 MVC는 왜 망가질까 : https://jisoo.net/2018/11/24/why-mvc-destroyed.html
+
 
 ### to Read
