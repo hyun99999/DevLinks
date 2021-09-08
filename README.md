@@ -33,6 +33,7 @@
 - [x] contentInset, contentOffset : https://zeddios.tistory.com/803
 - [x] namespace 만들기(UIColor extenstion 같은) : https://zeddios.tistory.com/353
 - [x] Generic : https://zeddios.tistory.com/m/226
+- [x] 클로저에서 weak self 사용? : https://seoyoung612.tistory.com/183
 
 ### Swift
 - [x] swift 5.0 변경사항 : https://zeddios.tistory.com/680
