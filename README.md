@@ -34,6 +34,7 @@
 - [x] namespace 만들기(UIColor extenstion 같은) : https://zeddios.tistory.com/353
 - [x] Generic : https://zeddios.tistory.com/m/226
 - [x] 클로저에서 weak self 사용? : https://seoyoung612.tistory.com/183
+- [x] dismiss 하고 바로 present 하기 : https://developer-fury.tistory.com/56
 
 ### Swift
 - [x] swift 5.0 변경사항 : https://zeddios.tistory.com/680
