@@ -26,7 +26,6 @@
 - [x] cell Life Cycle : https://jinnify.tistory.com/58
 - [x] 문자열 : https://batterflyyin.tistory.com/22
 - [x] delegation 데이터 전달 : https://roniruny.tistory.com/139
-- [x] UITableView drag&drop : https://furang-note.tistory.com/31?category=885524
 - [x] TTF? OTF? : https://zeddios.tistory.com/198
 - [x] AutoLayout programmatically : https://hyunsikwon.github.io/ios/iOS-AutoLayout-01/
 - [x] CAGradientLayer : https://babbab2.tistory.com/55 
@@ -115,5 +114,8 @@
 - [x] 간단한 network + MVVM패턴 : https://haningya.tistory.com/67
 - [x] iOS에서 MVC는 왜 망가질까 : https://jisoo.net/2018/11/24/why-mvc-destroyed.html
 
+### UITableView
+- [x] TableView 동적이 셀높이 : https://velog.io/@tnddls2ek/TableView-동적인-셀-높이-조절
+- [x] UITableView drag&drop : https://furang-note.tistory.com/31?category=885524
 
 ### to Read
