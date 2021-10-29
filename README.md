@@ -118,4 +118,7 @@
 - [x] TableView 동적이 셀높이 : https://velog.io/@tnddls2ek/TableView-동적인-셀-높이-조절
 - [x] UITableView drag&drop : https://furang-note.tistory.com/31?category=885524
 
+### UICollectionview
+- [x] iOS) UICollectionViewCell Dynamic Height, 동적 높이 구현하기 with Dummy Cell : https://corykim0829.github.io/ios/UICollectionViewCell-dynamic-height/#
+
 ### to Read
