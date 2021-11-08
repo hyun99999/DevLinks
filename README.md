@@ -34,6 +34,8 @@
 - [x] Generic : https://zeddios.tistory.com/m/226
 - [x] 클로저에서 weak self 사용? : https://seoyoung612.tistory.com/183
 - [x] dismiss 하고 바로 present 하기 : https://developer-fury.tistory.com/56
+- [x] iOS) 왕초보를 위한 IBInspectable / IBDesignable 사용해보기 : https://zeddios.tistory.com/270
+- [x] Swift) Properties - Computed Property(연산 프로퍼티) : https://zeddios.tistory.com/245
 
 ### Swift
 - [x] swift 5.0 변경사항 : https://zeddios.tistory.com/680
