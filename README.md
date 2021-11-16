@@ -36,6 +36,7 @@
 - [x] dismiss 하고 바로 present 하기 : https://developer-fury.tistory.com/56
 - [x] iOS) 왕초보를 위한 IBInspectable / IBDesignable 사용해보기 : https://zeddios.tistory.com/270
 - [x] Swift) Properties - Computed Property(연산 프로퍼티) : https://zeddios.tistory.com/245
+- [x] [iOS]Protocol 사용방법(주의할 점) : https://velog.io/@yongchul/Protocol-사용예제-및-주의할-점
 
 ### Swift
 - [x] swift 5.0 변경사항 : https://zeddios.tistory.com/680
