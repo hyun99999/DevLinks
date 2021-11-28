@@ -15,6 +15,9 @@
 - [UIBezierPath](#uibezierpath)
 - [MapKit](#mapkit)
 - [DesignPattern MVVM](#designpattern-mvvm)
+- [Pattern](#pattern)
+- [UITableView](#uitableview)
+- [UICollectionView](#uicollectionview)
 - [to Read](#to-read)
 ---
 
@@ -116,6 +119,11 @@
 - [x] MVVM패턴에 대하여 글쓴이의 고민 : https://jisoo.net/2018/12/09/what-is-mvvm.html
 - [x] 간단한 network + MVVM패턴 : https://haningya.tistory.com/67
 - [x] iOS에서 MVC는 왜 망가질까 : https://jisoo.net/2018/11/24/why-mvc-destroyed.html
+
+### Pattern
+- [x] 옵셔널 패턴 (optional pattern) : https://velog.io/@devapploper/옵셔널-패턴-optional-pattern
+- [x] 스위프트에서 사용하는 패턴(열거형 케이스 패턴, 옵셔널 패턴, 타입 캐스팅 패턴) : https://boidevelop.tistory.com/23
+- [ ] 
 
 ### UITableView
 - [x] TableView 동적이 셀높이 : https://velog.io/@tnddls2ek/TableView-동적인-셀-높이-조절
