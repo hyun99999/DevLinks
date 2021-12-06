@@ -18,6 +18,7 @@
 - [Pattern](#pattern)
 - [UITableView](#uitableview)
 - [UICollectionView](#uicollectionview)
+- [UIPickerView](#uipickerview)
 - [to Read](#to-read)
 ---
 
@@ -132,5 +133,8 @@
 
 ### UICollectionview
 - [x] iOS) UICollectionViewCell Dynamic Height, 동적 높이 구현하기 with Dummy Cell : https://corykim0829.github.io/ios/UICollectionViewCell-dynamic-height/#
+
+### UIPickerView
+- [x] [iOS] 피커뷰 뽀개기 - HoonIOS : https://boidevelop.tistory.com/108
 
 ### to Read
