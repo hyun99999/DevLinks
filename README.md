@@ -137,4 +137,8 @@
 ### UIPickerView
 - [x] [iOS] 피커뷰 뽀개기 - HoonIOS : https://boidevelop.tistory.com/108
 
+### UIImagePickerController
+- [x] [iOS/Swift] UIImagePickerController 를 사용해 이미지 수정 및 가져오기 : https://silver-g-0114.tistory.com/44
+- [x] 201121 TIL) 이미지 피커 컨트롤러 (Image Picker Controller) : https://97chos.medium.com/201121-til-이미지-피커-컨트롤러-image-picker-controller-acdbb3f2cce9
+
 ### to Read
