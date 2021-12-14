@@ -126,7 +126,7 @@
 ### Pattern
 - [x] 옵셔널 패턴 (optional pattern) : https://velog.io/@devapploper/옵셔널-패턴-optional-pattern
 - [x] 스위프트에서 사용하는 패턴(열거형 케이스 패턴, 옵셔널 패턴, 타입 캐스팅 패턴) : https://boidevelop.tistory.com/23
-- [ ] 
+- [x] [swift] 스위프트에서 사용하는 패턴(와일드카드 패턴, 식별자 패턴, 바인딩 패턴, 튜플 패턴) : https://boidevelop.tistory.com/22?category=848832
 
 ### UITableView
 - [x] TableView 동적이 셀높이 : https://velog.io/@tnddls2ek/TableView-동적인-셀-높이-조절
