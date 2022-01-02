@@ -43,6 +43,7 @@
 - [x] Swift) Properties - Computed Property(연산 프로퍼티) : https://zeddios.tistory.com/245
 - [x] [iOS]Protocol 사용방법(주의할 점) : https://velog.io/@yongchul/Protocol-사용예제-및-주의할-점
 - [x] [Swift] Codable을 사용해 json 데이터를 디코딩하는 3가지 방법 : https://jusung.github.io/Json-Decoding-3ways/
+- [x] Escaping closure : https://onemoonstudio.tistory.com/13
 
 ### Swift
 - [x] swift 5.0 변경사항 : https://zeddios.tistory.com/680
