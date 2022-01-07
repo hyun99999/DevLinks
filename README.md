@@ -44,6 +44,7 @@
 - [x] [iOS]Protocol 사용방법(주의할 점) : https://velog.io/@yongchul/Protocol-사용예제-및-주의할-점
 - [x] [Swift] Codable을 사용해 json 데이터를 디코딩하는 3가지 방법 : https://jusung.github.io/Json-Decoding-3ways/
 - [x] Escaping closure : https://onemoonstudio.tistory.com/13
+- [x] [GitHub] GitHub로 협업하는 방법[2] - Forking Workflow : https://gmlwjd9405.github.io/2017/10/28/how-to-collaborate-on-GitHub-2.html
 
 ### Swift
 - [x] swift 5.0 변경사항 : https://zeddios.tistory.com/680
