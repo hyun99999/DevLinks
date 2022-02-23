@@ -45,6 +45,9 @@
 - [x] [Swift] Codable을 사용해 json 데이터를 디코딩하는 3가지 방법 : https://jusung.github.io/Json-Decoding-3ways/
 - [x] Escaping closure : https://onemoonstudio.tistory.com/13
 - [x] [GitHub] GitHub로 협업하는 방법[2] - Forking Workflow : https://gmlwjd9405.github.io/2017/10/28/how-to-collaborate-on-GitHub-2.html
+- [x] Metatype(메타 타입), generics(제네릭) : https://ios-development.tistory.com/320
+- [x] Swift) Metatype(.self, .Type, .Protocol) 정복하기 (1/2) : https://babbab2.tistory.com/151?category=828998
+- [x] Swift) Metatype(.self, .Type, .Protocol) 정복하기 (2/2) : https://babbab2.tistory.com/152?category=828998
 
 ### Swift
 - [x] swift 5.0 변경사항 : https://zeddios.tistory.com/680
