@@ -48,6 +48,7 @@
 - [x] Metatype(메타 타입), generics(제네릭) : https://ios-development.tistory.com/320
 - [x] Swift) Metatype(.self, .Type, .Protocol) 정복하기 (1/2) : https://babbab2.tistory.com/151?category=828998
 - [x] Swift) Metatype(.self, .Type, .Protocol) 정복하기 (2/2) : https://babbab2.tistory.com/152?category=828998
+- [x] [[iOS] Target-Action : UIControl 객체가 이벤트에 응답하는 방식](https://daheenallwhite.github.io/ios/2019/07/24/Target-Action/)
 
 ### Swift
 - [x] swift 5.0 변경사항 : https://zeddios.tistory.com/680
