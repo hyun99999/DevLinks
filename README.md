@@ -50,6 +50,7 @@
 - [x] Swift) Metatype(.self, .Type, .Protocol) 정복하기 (2/2) : https://babbab2.tistory.com/152?category=828998
 - [x] [[iOS] Target-Action : UIControl 객체가 이벤트에 응답하는 방식](https://daheenallwhite.github.io/ios/2019/07/24/Target-Action/)
 - [x] [Hashable in Swift 5](https://zeddios.tistory.com/251)
+- [x] [Capture Prevent](https://medium.com/@shvul/protecting-imageview-content-on-ios-d84c498e38e2)
 
 ### Swift
 - [x] swift 5.0 변경사항 : https://zeddios.tistory.com/680
