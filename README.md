@@ -51,6 +51,8 @@
 - [x] [[iOS] Target-Action : UIControl 객체가 이벤트에 응답하는 방식](https://daheenallwhite.github.io/ios/2019/07/24/Target-Action/)
 - [x] [Hashable in Swift 5](https://zeddios.tistory.com/251)
 - [x] [Capture Prevent](https://medium.com/@shvul/protecting-imageview-content-on-ios-d84c498e38e2)
+- [x] [iOS ) 최신버전확인하기 / App Update](https://zeddios.tistory.com/372)
+- [x] [[iOS - Swift] 현재 버전과 앱 스토어 버전 체크](https://kirinit.tistory.com/10)
 
 ### Swift
 - [x] swift 5.0 변경사항 : https://zeddios.tistory.com/680
