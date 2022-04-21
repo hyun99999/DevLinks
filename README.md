@@ -53,6 +53,7 @@
 - [x] [Capture Prevent](https://medium.com/@shvul/protecting-imageview-content-on-ios-d84c498e38e2)
 - [x] [iOS ) 최신버전확인하기 / App Update](https://zeddios.tistory.com/372)
 - [x] [[iOS - Swift] 현재 버전과 앱 스토어 버전 체크](https://kirinit.tistory.com/10)
+- [x] [오토 레이아웃과 함께 UIView의 애니메이션 기능 사용하기](https://jongchanpark.tistory.com/42)
 
 ### Swift
 - [x] swift 5.0 변경사항 : https://zeddios.tistory.com/680
