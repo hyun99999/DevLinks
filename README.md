@@ -74,6 +74,7 @@
 
 ### aync/await
 - [x] [Swift 5.5 aync/await 살펴보기](https://seorenn.tistory.com/196)
+- [x] [GCD를 async/await로 변경하기](https://skagh.tistory.com/93)
 
 ### Charts open library
 - [x] [차트 라이브러리](https://gonslab.tistory.com/11?category=906018)
