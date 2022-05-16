@@ -100,6 +100,7 @@
 - [x] [DispatchSemaphore](https://onelife2live.tistory.com/5)
 - [x] [Concurrency Programming Guide - Dispatch Queues](https://zeddios.tistory.com/513)
 - [x] [main.sync 를 하면 안될까? zedd](https://zeddios.tistory.com/519)
+- [x] [OperationQueue / GCD](https://velog.io/@leeyoungwoozz/TIL-2021.04.30-Fri#비동기-처리가-필요한-이유)
 
 ### Initialization
 - [x] [initialization(1/3)](https://wlaxhrl.tistory.com/47)
