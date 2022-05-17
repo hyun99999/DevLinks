@@ -8,6 +8,7 @@
 - [AppDelegate, SceneDelegate](#appdelegate-scenedelegate)
 - [APNs](#apns)
 - [aync/await](#ayncawait)
+- [CleanCode](#cleancode)
 - [Swift](#swift)
 - [Initialization](#initialization)
 - [UISearchController](#uisearchcontroller)
@@ -59,6 +60,10 @@
 - [x] [차트 라이브러리](https://gonslab.tistory.com/11?category=906018)
 - [x] [gitCat 에서 Charts 사용](https://blog.naver.com/yoon980208/222076657031)
 
+### CleanCode
+- [x] [Clean Code(클린 코드) - 2. 의미 있는 이름](https://ios-development.tistory.com/754?category=1017980)
+- [x] [2. 의미 있는 이름](https://velog.io/@leeyoungwoozz/Clean-Code-2.-의미-있는-이름)
+
 ### Coordinator 패턴
 - [x] [coordinator 패턴(브랜디 기술블로그)](http://labs.brandi.co.kr/2020/06/16/kimjh.html)
 - [x] [coordinator - basic](https://lena-chamna.netlify.app/post/ios_design_pattern_coordinator_basic/)
@@ -100,6 +105,9 @@
 - [x] [옵셔널 패턴 (optional pattern)](https://velog.io/@devapploper/옵셔널-패턴-optional-pattern)
 - [x] [스위프트에서 사용하는 패턴(열거형 케이스 패턴, 옵셔널 패턴, 타입 캐스팅 패턴)](https://boidevelop.tistory.com/23)
 - [x] [[swift] 스위프트에서 사용하는 패턴(와일드카드 패턴, 식별자 패턴, 바인딩 패턴, 튜플 패턴)](https://boidevelop.tistory.com/22?category=848832)
+
+### RIBs
+- [ ] [RIBs Architecture](https://snowee.tistory.com/59)
 
 ### RxSwift
 - [x] [RxSwift 스터디 깃허브](https://github.com/5anniversary/RxSwiftStudy/blob/main/week1.md)
@@ -200,5 +208,5 @@
 
 
 ### to Read
-- [ ] [Router pattern with Alamofire’s URLRequestConvertible protocol Tutorial 따라해보기 !]https://suvera.tistory.com/51
-- [ ] 
+- [ ] [Router pattern with Alamofire’s URLRequestConvertible protocol Tutorial 따라해보기 !](https://suvera.tistory.com/51)
+- [ ] [RIBs Architecture](https://snowee.tistory.com/59)
