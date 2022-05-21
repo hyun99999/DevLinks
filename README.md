@@ -51,6 +51,7 @@
 ### AppDelegate, SceneDelegate
 - [x] [AppDelegate, SceneDelegate](https://ios-development.tistory.com/53)
 - [x] [scene delegate 백그라운드 처리](https://gonslab.tistory.com/49)
+- [x] [AppDelegate.Swift는 무슨 역할을 하는 것일까?](https://jazz-the-it.tistory.com/29)
 
 ### aync/await
 - [x] [Swift 5.5 aync/await 살펴보기](https://seorenn.tistory.com/196)
