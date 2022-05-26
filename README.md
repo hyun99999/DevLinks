@@ -110,7 +110,7 @@
 - [x] [[swift] 스위프트에서 사용하는 패턴(와일드카드 패턴, 식별자 패턴, 바인딩 패턴, 튜플 패턴)](https://boidevelop.tistory.com/22?category=848832)
 
 ### RIBs
-- [ ] [RIBs Architecture](https://snowee.tistory.com/59)
+- [x] [RIBs Architecture](https://snowee.tistory.com/59)
 
 ### RxSwift
 - [x] [RxSwift 스터디 깃허브](https://github.com/5anniversary/RxSwiftStudy/blob/main/week1.md)
@@ -212,4 +212,3 @@
 
 ### to Read
 - [ ] [Router pattern with Alamofire’s URLRequestConvertible protocol Tutorial 따라해보기 !](https://suvera.tistory.com/51)
-- [ ] [RIBs Architecture](https://snowee.tistory.com/59)
