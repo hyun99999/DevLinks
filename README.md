@@ -3,7 +3,7 @@
 # INDEX
 
 ### iOS
-
+- [Actor](#actor)
 - [Animation](#animation)
 - [AppDelegate, SceneDelegate](#appdelegate-scenedelegate)
 - [APNs](#apns)
@@ -41,6 +41,12 @@
 - [x] [TTF? OTF? zedd](https://zeddios.tistory.com/198)
 
 ---
+
+### Actor
+- [x] [Swift ) Actor (1) zedd](https://zeddios.tistory.com/1290)
+- [x] [Swift ) Actor (2) - Actor isolation zedd](https://zeddios.tistory.com/1303)
+- [x] [Swift ) Actor (3) - isolated parameter / nonisolated keyword zedd](https://zeddios.tistory.com/1304)
+- [x] [Actor (4) - Sendable zedd](https://zeddios.tistory.com/1305?category=1000593)
 
 ### Animation
 - [x] [애니메이션 UIViewPropertyAnimator](https://jinsangjin.tistory.com/105?category=825470)
