@@ -127,6 +127,9 @@
 
 ### RIBs
 - [x] [RIBs Architecture](https://snowee.tistory.com/59)
+- [x] [iOS Tutorial 1 · uber/RIBs Wiki](https://github.com/uber/RIBs/wiki/iOS-Tutorial-1)
+- [x] [Study-RIBs/tutorials/tutorial1 at master · snowedev/Study-RIBs](https://github.com/snowedev/Study-RIBs/tree/master/tutorials/tutorial1)
+- [x] [[iOS] RIBs - Tutorial 1](https://duwjdtn11.tistory.com/636)
 
 ### RxSwift
 - [x] [RxSwift 스터디 깃허브](https://github.com/5anniversary/RxSwiftStudy/blob/main/week1.md)
