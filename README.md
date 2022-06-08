@@ -19,6 +19,7 @@
 - [DispatchQueue](#dispatchqueue)
 - [Dark Mode 설정](#dark-mode-설정)
 - [Widget](#widget)
+- [WWDC22](#wwdc22)
 - [RxSwift](#rxswift)
 - [Charts open library](#charts-open-library)
 - [UIVisualEffect](#uivisualeffect)
@@ -211,6 +212,8 @@
 - [x] [widget(2) zedd](https://zeddios.tistory.com/1089)
 - [x] [widget(3) zedd](https://zeddios.tistory.com/m/1092)
 
+### WWDC22
+- [x] [What's new in UIKit](https://developer.apple.com/wwdc22/10068)
 ---
 
 - [x] 문자열 : https://batterflyyin.tistory.com/22
