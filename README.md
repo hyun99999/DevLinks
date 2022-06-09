@@ -211,6 +211,7 @@
 - [x] [widget(1) zedd](https://zeddios.tistory.com/1088)
 - [x] [widget(2) zedd](https://zeddios.tistory.com/1089)
 - [x] [widget(3) zedd](https://zeddios.tistory.com/m/1092)
+- [x] [iOS Widget Extension 각 항목별 터치 이벤트 구성하기](https://sosoingkr.tistory.com/78)
 
 ### WWDC22
 - [x] [What's new in UIKit](https://developer.apple.com/wwdc22/10068)
