@@ -7,17 +7,18 @@
 - [Animation](#animation)
 - [AppDelegate, SceneDelegate](#appdelegate-scenedelegate)
 - [APNs](#apns)
-- [aync/await](#ayncawait)
+- [async/await](#asyncawait)
 - [CleanCode](#cleancode)
 - [Combine](#combine)
+- [Coordinator 패턴](#coordinator-패턴)
+- [Dark Mode 설정](#dark-mode-설정)
+- [DesignPattern - MVVM](#designpattern---mvvm)
+- [DispatchQueue](#dispatchqueue)
 - [Framwork](#framwork)
 - [Swift](#swift)
 - [Initialization](#initialization)
 - [UISearchController](#uisearchcontroller)
 - [Keyboard issue](#keyboard-issue)
-- [Coordinator 패턴](#coordinator-패턴)
-- [DispatchQueue](#dispatchqueue)
-- [Dark Mode 설정](#dark-mode-설정)
 - [Widget](#widget)
 - [WWDC22](#wwdc22)
 - [RxSwift](#rxswift)
@@ -25,7 +26,6 @@
 - [UIVisualEffect](#uivisualeffect)
 - [UIBezierPath](#uibezierpath)
 - [MapKit](#mapkit)
-- [DesignPattern MVVM](#designpattern-mvvm)
 - [Pattern](#pattern)
 - [Protocol](#protocol)
 - [UIButton](#uibutton)
@@ -99,10 +99,11 @@
 ### Dark Mode 설정
 - [x] [다크모드(브랜디 기술블로그)](http://labs.brandi.co.kr/2019/12/19/kimjh.html)
 
-### DesignPattern MVVM
+### DesignPattern - MVVM
 - [x] [MVVM패턴에 대하여 글쓴이의 고민](https://jisoo.net/2018/12/09/what-is-mvvm.html)
 - [x] [간단한 network + MVVM패턴](https://haningya.tistory.com/67)
 - [x] [iOS에서 MVC는 왜 망가질까](https://jisoo.net/2018/11/24/why-mvc-destroyed.html)
+- [x] [swift MVVM 정리 및 예제](https://42kchoi.tistory.com/292)
 
 ### DispatchQueue
 - [x] [DispatchQueue(1) zedd](https://zeddios.tistory.com/516)
