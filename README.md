@@ -80,11 +80,13 @@
 - [x] [2. 의미 있는 이름](https://velog.io/@leeyoungwoozz/Clean-Code-2.-의미-있는-이름)
 - [x] [Clean Code(클린 코드) - 3. 함수 (1)](https://ios-development.tistory.com/755?category=1017980)
 - [x] [3. 함수](https://velog.io/@leeyoungwoozz/Clean-Code-3.-함수)
+- [x] [4. 주석](https://velog.io/@leeyoungwoozz/Clean-Code-4.-주석)
+- [x] [Clean Code(클린 코드) - 3. 함수 (2)](https://ios-development.tistory.com/756?category=1017980)
 
 ### Combine
 - [ ] [[WWDC 2019] Introducing Combine](https://icksw.tistory.com/268)
 - [x] [[iOS] Combine이란? - Combine 공부 1](https://icksw.tistory.com/271)
-- [ ] [[iOS] Publisher & Subscriber - Combine 공부 2])[https://icksw.tistory.com/272?category=937485]
+- [ ] [[iOS] Publisher & Subscriber - Combine 공부 2](https://icksw.tistory.com/272?category=937485)
 
 ### Coordinator 패턴
 - [x] [coordinator 패턴(브랜디 기술블로그)](http://labs.brandi.co.kr/2020/06/16/kimjh.html)
