@@ -82,6 +82,9 @@
 - [x] [3. 함수](https://velog.io/@leeyoungwoozz/Clean-Code-3.-함수)
 - [x] [4. 주석](https://velog.io/@leeyoungwoozz/Clean-Code-4.-주석)
 - [x] [Clean Code(클린 코드) - 3. 함수 (2)](https://ios-development.tistory.com/756?category=1017980)
+- [x] [Clean Code(클린 코드) - 4. 주석](https://ios-development.tistory.com/759?category=1017980)
+- [x] [Clean Code(클린 코드) - 5. 객체와 자료구조](https://ios-development.tistory.com/761?category=1017980)
+- [x] [Clean Code(클린 코드) - 6. 오류처리](https://ios-development.tistory.com/764?category=1017980)
 
 ### Combine
 - [ ] [[WWDC 2019] Introducing Combine](https://icksw.tistory.com/268)
