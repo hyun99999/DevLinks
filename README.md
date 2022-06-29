@@ -148,6 +148,7 @@
 
 ### RxSwift
 - [x] [RxSwift 스터디 깃허브](https://github.com/5anniversary/RxSwiftStudy/blob/main/week1.md)
+- [x] [1. RxSwift의 개념](https://ios-development.tistory.com/95?category=916618)
 
 ### Singleton pattern
 - [x] [Singleton Pattern (싱글턴) - 디자인 패턴 공부 6](https://icksw.tistory.com/239?category=944177)
