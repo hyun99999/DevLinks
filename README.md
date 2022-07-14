@@ -153,6 +153,8 @@
 - [x] [import RxSwfit를 보고 도망치지 않는 방법 101가지](https://taekkidev.notion.site/import-RxSwfit-101-b7a10795a1b3457886cc882b1a1443a5)
 - [x] [[RxSwift] Observable](https://janechoi.tistory.com/13?category=1089759)
 - [x] [[RxSwift] 2. Observables](https://ios-development.tistory.com/97?category=916618)
+- [x] [[RxSwift] 3. Subjects](https://www.raywenderlich.com/books/rxswift-reactive-programming-with-swift/v4.0/chapters/3-subjects)
+- [x] [RxSwift. Traits 정리하기](https://devmjun.github.io/archive/Traits)
 
 ### Singleton pattern
 - [x] [Singleton Pattern (싱글턴) - 디자인 패턴 공부 6](https://icksw.tistory.com/239?category=944177)
