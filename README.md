@@ -36,7 +36,6 @@
 - [Try](#try)
 - [View Life Cycle](#view-life-cycle)
 - [Version Check](#version-check)
-- [to Read](#to-read)
 
 ### other
 - [x] [get, post 차이를 아시나요?](https://velog.io/@songyouhyun/Get과-Post의-차이를-아시나요)
@@ -161,6 +160,9 @@
 ### Singleton pattern
 - [x] [Singleton Pattern (싱글턴) - 디자인 패턴 공부 6](https://icksw.tistory.com/239?category=944177)
 - [x] [Singleton pattern](https://babbab2.tistory.com/66)
+
+### Some
+- [x] [some 키워드 (Opaque Types, body 프로퍼티)](https://ios-development.tistory.com/1047)
 
 ### storyboard 없이 진행하기
 - [x] [Main.storyboard 없이 프로젝트 시작하기](https://developer-fury.tistory.com/41)
