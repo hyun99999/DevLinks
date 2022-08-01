@@ -157,6 +157,8 @@
 - [x] [[RxSwift] 3. Subjects](https://www.raywenderlich.com/books/rxswift-reactive-programming-with-swift/v4.0/chapters/3-subjects)
 - [x] [RxSwift. Traits 정리하기](https://devmjun.github.io/archive/Traits)
 - [x] [[RxSwift] 4. Observables and Subjects 실전 적용](https://ios-development.tistory.com/105?category=916618)
+- [x] [[RxSwift] Observer](https://sujinnaljin.medium.com/rxswift-observer-fdc8d2772d6c)
+- [x] [[RxSwift] Subject](https://sujinnaljin.medium.com/rxswift-subject-99b401e5d2e5)
 
 ### Singleton pattern
 - [x] [Singleton Pattern (싱글턴) - 디자인 패턴 공부 6](https://icksw.tistory.com/239?category=944177)
