@@ -38,6 +38,10 @@
 - [View Life Cycle](#view-life-cycle)
 - [Version Check](#version-check)
 
+### Objective-C
+- [Nullability](#nullability)
+- [Category](#category)
+
 ### other
 - [x] [get, post 차이를 아시나요?](https://velog.io/@songyouhyun/Get과-Post의-차이를-아시나요)
 - [x] [[GitHub] GitHub로 협업하는 방법[2] - Forking Workflow](https://gmlwjd9405.github.io/2017/10/28/how-to-collaborate-on-GitHub-2.html)
@@ -264,6 +268,19 @@
 - [x] [Hashable in Swift 5](https://zeddios.tistory.com/251)
 - [x] [Capture Prevent](https://medium.com/@shvul/protecting-imageview-content-on-ios-d84c498e38e2)
 
+---
+
+# Objective-C
+
+### Category
+- [x] [Objective-C) Category와 Extension](https://babbab2.tistory.com/73)
+
+### Nullability
+- [x] [Nullability and Objective-C - Swift Blog](https://developer.apple.com/swift/blog/?id=25)
+- [x] [Apple Developer Documentation](https://developer.apple.com/documentation/swift/designating-nullability-in-objective-c-apis)
+- [x] [Difference between nullable, __nullable and _Nullable in Objective-C](https://stackoverflow.com/questions/32452889/difference-between-nullable-nullable-and-nullable-in-objective-c)
+- [x] [[Apple Dev Reference] Nullability and Objective-C](https://rhammer.tistory.com/145)
+- [x] [Swift에 따른 Objective-C의 새로운 기능들 - yagom's blog](https://blog.yagom.net/519/)
 
 ### to Read
 - [ ] [Router pattern with Alamofire’s URLRequestConvertible protocol Tutorial 따라해보기 !](https://suvera.tistory.com/51)
