@@ -42,7 +42,7 @@
 - [Category](#category)
 - [Nullability](#nullability)
 - [MRR](#mrr)
-- [Protocol](#protocol)
+- [Objective-C Protocol](#objective-c-protocol)
 
 ### other
 - [x] [get, post 차이를 아시나요?](https://velog.io/@songyouhyun/Get과-Post의-차이를-아시나요)
@@ -287,7 +287,7 @@
 ### MRR
 - [x] [[iOS] 메모리 관리 기법 - MRR (Manual Retain Release)](https://mildwhale.tistory.com/27)
 
-### Protocol
+### Objective-C Protocol
 - [x] [objective c 프로토콜 3 - 비공식 프로토콜](https://qteveryday.tistory.com/153)
 
 ### to Read
