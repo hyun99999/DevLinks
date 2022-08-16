@@ -41,6 +41,7 @@
 ### Objective-C
 - [Nullability](#nullability)
 - [Category](#category)
+- [MRR](#mrr)
 
 ### other
 - [x] [get, post 차이를 아시나요?](https://velog.io/@songyouhyun/Get과-Post의-차이를-아시나요)
@@ -281,6 +282,9 @@
 - [x] [Difference between nullable, __nullable and _Nullable in Objective-C](https://stackoverflow.com/questions/32452889/difference-between-nullable-nullable-and-nullable-in-objective-c)
 - [x] [[Apple Dev Reference] Nullability and Objective-C](https://rhammer.tistory.com/145)
 - [x] [Swift에 따른 Objective-C의 새로운 기능들 - yagom's blog](https://blog.yagom.net/519/)
+
+### MRR
+- [x] [[iOS] 메모리 관리 기법 - MRR (Manual Retain Release)](https://mildwhale.tistory.com/27)
 
 ### to Read
 - [ ] [Router pattern with Alamofire’s URLRequestConvertible protocol Tutorial 따라해보기 !](https://suvera.tistory.com/51)
