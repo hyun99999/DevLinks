@@ -246,7 +246,7 @@
 ### WWDC22
 - [x] [What's new in UIKit](https://developer.apple.com/wwdc22/10068)
 ---
-
+- [x] [[Swift] Type Inference와 Type Annotation 속도 비교](https://jeong9216.tistory.com/518?category=1019144)
 - [x] 문자열 : https://batterflyyin.tistory.com/22
 - [x] delegation 데이터 전달 : https://roniruny.tistory.com/139
 
