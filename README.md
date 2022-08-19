@@ -8,6 +8,7 @@
 - [AppDelegate, SceneDelegate](#appdelegate-scenedelegate)
 - [APNs](#apns)
 - [async/await](#asyncawait)
+- [CaptureList](#capturelist)
 - [CleanCode](#cleancode)
 - [Combine](#combine)
 - [Coordinator 패턴](#coordinator-패턴)
@@ -78,6 +79,9 @@
 - [x] [[Swift] async / await 등장배경](https://eunjin3786.tistory.com/381)
 - [x] [AsyncStream / AsyncThrowingStream (feat. RxSwift + Concurrency) zedd](https://zeddios.tistory.com/1341)
 - [x] [AsyncSequence zedd](https://zeddios.tistory.com/1339)
+
+### CaptureList
+- [x] [unowned self vs weak self (캡쳐 리스트)-(1)](https://jinswift.tistory.com/6)
 
 ### Charts open library
 - [x] [차트 라이브러리](https://gonslab.tistory.com/11?category=906018)
