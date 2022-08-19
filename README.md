@@ -5,6 +5,7 @@
 ### iOS
 - [Actor](#actor)
 - [Animation](#animation)
+- [ARC](#arc)
 - [AppDelegate, SceneDelegate](#appdelegate-scenedelegate)
 - [APNs](#apns)
 - [async/await](#asyncawait)
@@ -61,6 +62,9 @@
 ### Animation
 - [x] [애니메이션 UIViewPropertyAnimator](https://jinsangjin.tistory.com/105?category=825470)
 - [x] [오토 레이아웃과 함께 UIView의 애니메이션 기능 사용하기 - layoutIfNeeded()와 setNeedsLayout()](https://jongchanpark.tistory.com/42)
+
+### ARC
+- [x] [Is it necessary to use [unowned self] in closures of UIView.animateWithDuration(...)?](https://stackoverflow.com/questions/27019676/is-it-necessary-to-use-unowned-self-in-closures-of-uiview-animatewithduration)
 
 ### APNs
 - [x] [Push Notifications Tutorial: Getting Started](https://www.raywenderlich.com/11395893-push-notifications-tutorial-getting-started#toc-anchor-008)
