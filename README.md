@@ -68,6 +68,7 @@
 - [x] [Is it necessary to use [unowned self] in closures of UIView.animateWithDuration(...)?](https://stackoverflow.com/questions/27019676/is-it-necessary-to-use-unowned-self-in-closures-of-uiview-animatewithduration)
 - [x] [weak self를 사용할 때 guard let self vs self? - 일부 번역](https://baechukim.tistory.com/95)
 - [x] [SHOULD WE USE [WEAK SELF] IN GCD](https://zeushin.github.io/2017/09/26/should-we-use-weak-self-in-gcd/)
+- [x] [Swift ) ARC / Strong Reference Cycle 해결 방법(weak, unowned) zedd](https://zeddios.tistory.com/1213)
 
 ### APNs
 - [x] [Push Notifications Tutorial: Getting Started](https://www.raywenderlich.com/11395893-push-notifications-tutorial-getting-started#toc-anchor-008)
