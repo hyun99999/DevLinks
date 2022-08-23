@@ -32,6 +32,7 @@
 - [MapKit](#mapkit)
 - [Pattern](#pattern)
 - [Protocol](#protocol)
+- [PropertyWrapper](#propertywrapper)
 - [UIButton](#uibutton)
 - [UITableView](#uitableview)
 - [UICollectionView](#uicollectionview)
@@ -159,6 +160,9 @@
 
 ### Protocol
 - [x] [Swift 프로토콜 준수와 채택의 차이 : Difference between Conformance and Adoption in Swift Protocol](https://daheenallwhite.github.io/swift/2019/06/02/Protocol-Conformance-Adoption/)
+
+### PropertyWrapper
+- [x] [프로퍼티 래퍼란? (Property Wrapper)](https://jinswift.tistory.com/5?category=915942)
 
 ### RIBs
 - [x] [RIBs Architecture](https://snowee.tistory.com/59)
