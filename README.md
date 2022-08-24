@@ -13,6 +13,7 @@
 - [CleanCode](#cleancode)
 - [Combine](#combine)
 - [Coordinator 패턴](#coordinator-패턴)
+- [COW(Copey-on-Write)](#cow(cow-on-write))
 - [Dark Mode 설정](#dark-mode-설정)
 - [DesignPattern - MVVM](#designpattern---mvvm)
 - [Dependency Injection](#dependency-injection)
@@ -117,6 +118,11 @@
 - [x] [coordinator 패턴(브랜디 기술블로그)](http://labs.brandi.co.kr/2020/06/16/kimjh.html)
 - [x] [coordinator - basic](https://lena-chamna.netlify.app/post/ios_design_pattern_coordinator_basic/)
 - [x] [coordinator - advanced](https://lena-chamna.netlify.app/post/ios_design_pattern_coordinator_advanced/)
+
+### COW(Copey-on-Write)
+- [x] [[Swift] 깊은 복사와 얕은 복사(feat. NSCopying)](https://jeong9216.tistory.com/527)
+- [x] [[Swift] Value Type의 메모리 주소](https://sujinnaljin.medium.com/swift-value-type의-메모리-주소-7d4c3de73b11)
+- [x] [Swift) COW (Copy-on-Write)](https://babbab2.tistory.com/18)
 
 ### Dark Mode 설정
 - [x] [다크모드(브랜디 기술블로그)](http://labs.brandi.co.kr/2019/12/19/kimjh.html)
