@@ -15,6 +15,7 @@
 - [Coordinator 패턴](#coordinator-패턴)
 - [Dark Mode 설정](#dark-mode-설정)
 - [DesignPattern - MVVM](#designpattern---mvvm)
+- [Dependency Injection](#dependency-injection)
 - [DispatchQueue](#dispatchqueue)
 - [Framwork](#framwork)
 - [Swift](#swift)
@@ -125,6 +126,9 @@
 - [x] [간단한 network + MVVM패턴](https://haningya.tistory.com/67)
 - [x] [iOS에서 MVC는 왜 망가질까](https://jisoo.net/2018/11/24/why-mvc-destroyed.html)
 - [x] [swift MVVM 정리 및 예제](https://42kchoi.tistory.com/292)
+
+### Dependency Injection
+- [x] [[Swift] Dependency Injection 의존성 주입 비유로 쉽게 이해하기](https://ios-developer-storage.tistory.com/entry/Swift-Dependency-Injection-의존성-주입-비유로-쉽게-이해하기)
 
 ### DispatchQueue
 - [x] [DispatchQueue(1) zedd](https://zeddios.tistory.com/516)
