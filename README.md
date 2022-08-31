@@ -10,6 +10,7 @@
 - [APNs](#apns)
 - [async/await](#asyncawait)
 - [CaptureList](#capturelist)
+- [Charts open library](#charts-open-library)
 - [CleanCode](#cleancode)
 - [Combine](#combine)
 - [Coordinator 패턴](#coordinator-패턴)
@@ -19,6 +20,7 @@
 - [Dependency Injection](#dependency-injection)
 - [DispatchQueue](#dispatchqueue)
 - [Framwork](#framwork)
+- [Memory](#memory)
 - [Swift](#swift)
 - [Initialization](#initialization)
 - [UISearchController](#uisearchcontroller)
@@ -28,7 +30,6 @@
 - [ReactorKit](#reactorkit)
 - [Relam](#realm)
 - [RxSwift](#rxswift)
-- [Charts open library](#charts-open-library)
 - [UIVisualEffect](#uivisualeffect)
 - [UIBezierPath](#uibezierpath)
 - [MapKit](#mapkit)
@@ -163,6 +164,11 @@
 ### MapKit
 - [x] [MapKit 으로 위치 검색 자동완성 구현하기](https://daheenallwhite.github.io/ios/2019/08/07/MKLocalSearchCompleter/)
 - [x] [MapKit 위치 검색 자동완성](https://roniruny.tistory.com/157)
+
+### Memory
+- [x] [Swift) String에 대한 고찰 (1) - Struct인데 Heap에 저장 된다고?](https://babbab2.tistory.com/35)
+- [x] [Swift의 Type과 메모리 저장 공간](https://sujinnaljin.medium.com/ios-swift의-type과-메모리-저장-공간-25555c69ccff)
+- [x] [Swift의 Type과 메모리 저장 공간](https://shark-sea.kr/entry/iOS-Swift-메모리의-Stack과-Heap-영역-톺아보기)
 
 ### Pattern
 - [x] [옵셔널 패턴 (optional pattern)](https://velog.io/@devapploper/옵셔널-패턴-optional-pattern)
