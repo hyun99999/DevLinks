@@ -12,6 +12,7 @@
 - [CaptureList](#capturelist)
 - [Charts open library](#charts-open-library)
 - [CleanCode](#cleancode)
+- [Closure](#closure)
 - [Combine](#combine)
 - [Coordinator 패턴](#coordinator-패턴)
 - [COW(Copey-on-Write)](#cow(cow-on-write))
@@ -111,6 +112,10 @@
 - [x] [Clean Code(클린 코드) - 4. 주석](https://ios-development.tistory.com/759?category=1017980)
 - [x] [Clean Code(클린 코드) - 5. 객체와 자료구조](https://ios-development.tistory.com/761?category=1017980)
 - [x] [Clean Code(클린 코드) - 6. 오류처리](https://ios-development.tistory.com/764?category=1017980)
+
+### Closure
+- [x] [[Swift] @autoclosure란?](https://jusung.github.io/AutoClosure/)
+- [x] [Escaping closure](https://onemoonstudio.tistory.com/13)
 
 ### Combine
 - [ ] [[WWDC 2019] Introducing Combine](https://icksw.tistory.com/268)
@@ -304,7 +309,6 @@
 - [x] Swift) Properties - Computed Property(연산 프로퍼티) : https://zeddios.tistory.com/245
 - [x] [iOS]Protocol 사용방법(주의할 점) : https://velog.io/@yongchul/Protocol-사용예제-및-주의할-점
 - [x] [Swift] Codable을 사용해 json 데이터를 디코딩하는 3가지 방법 : https://jusung.github.io/Json-Decoding-3ways/
-- [x] Escaping closure : https://onemoonstudio.tistory.com/13
 
 - [x] Metatype(메타 타입), generics(제네릭) : https://ios-development.tistory.com/320
 - [x] Swift) Metatype(.self, .Type, .Protocol) 정복하기 (1/2) : https://babbab2.tistory.com/151?category=828998
