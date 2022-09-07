@@ -34,6 +34,7 @@
 - [UIVisualEffect](#uivisualeffect)
 - [UIBezierPath](#uibezierpath)
 - [MapKit](#mapkit)
+- [NSCache](#nscache)
 - [Pattern](#pattern)
 - [Protocol](#protocol)
 - [Property](#property)
@@ -175,6 +176,9 @@
 - [x] [Swift) String에 대한 고찰 (1) - Struct인데 Heap에 저장 된다고?](https://babbab2.tistory.com/35)
 - [x] [Swift의 Type과 메모리 저장 공간](https://sujinnaljin.medium.com/ios-swift의-type과-메모리-저장-공간-25555c69ccff)
 - [x] [Swift의 Type과 메모리 저장 공간](https://shark-sea.kr/entry/iOS-Swift-메모리의-Stack과-Heap-영역-톺아보기)
+
+### NSCache
+- [x] [swift 에서 dictionary와 NScache의 차이와 thread safe 하다는 뜻](https://dev200ok.blogspot.com/2021/11/dictionary-nscache-thread-safe.html)
 
 ### Pattern
 - [x] [옵셔널 패턴 (optional pattern)](https://velog.io/@devapploper/옵셔널-패턴-optional-pattern)
