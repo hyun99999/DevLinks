@@ -21,6 +21,7 @@
 - [Dependency Injection](#dependency-injection)
 - [DispatchQueue](#dispatchqueue)
 - [Framwork](#framwork)
+- [Lazy](#lazy)
 - [Memory](#memory)
 - [Swift](#swift)
 - [Initialization](#initialization)
@@ -167,6 +168,9 @@
 ### Keyboard issue
 - [x] [터치해서 키보드 내리기 zedd](https://zeddios.tistory.com/m/132)
 - [x] [키보드에 따라 동적으로 움직이는 스크롤뷰](https://seizze.github.io/2019/11/17/iOS에서-키보드에-동적인-스크롤뷰-만들기.html)
+
+### Lazy
+- [Swift의 lazy var](https://brunch.co.kr/@tilltue/71)
 
 ### MapKit
 - [x] [MapKit 으로 위치 검색 자동완성 구현하기](https://daheenallwhite.github.io/ios/2019/08/07/MKLocalSearchCompleter/)
