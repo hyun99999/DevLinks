@@ -183,6 +183,7 @@
 
 ### NSCache
 - [x] [swift 에서 dictionary와 NScache의 차이와 thread safe 하다는 뜻](https://dev200ok.blogspot.com/2021/11/dictionary-nscache-thread-safe.html)
+- [x] [Swift) 이미지 다운로드, 캐싱 - EEYatHo iOS](https://eeyatho.tistory.com/183?category=929245)
 
 ### Pattern
 - [x] [옵셔널 패턴 (optional pattern)](https://velog.io/@devapploper/옵셔널-패턴-optional-pattern)
