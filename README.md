@@ -49,6 +49,7 @@
 - [Try](#try)
 - [View Life Cycle](#view-life-cycle)
 - [Version Check](#version-check)
+- [Xcode Update](#xcode-update)
 
 ### Objective-C
 - [Category](#category)
@@ -302,7 +303,12 @@
 
 ### WWDC22
 - [x] [What's new in UIKit](https://developer.apple.com/wwdc22/10068)
+
+### Xcode Update
+- [x] [Xcode 14부터 바뀐 것들](https://medium.com/@jungkim/xcode-14부터-바뀐-것들-9dda016f25bd)
+
 ---
+
 - [x] [[Swift] Type Inference와 Type Annotation 속도 비교](https://jeong9216.tistory.com/518?category=1019144)
 - [x] 문자열 : https://batterflyyin.tistory.com/22
 - [x] delegation 데이터 전달 : https://roniruny.tistory.com/139
