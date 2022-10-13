@@ -346,8 +346,9 @@
 - [x] [[Apple Dev Reference] Nullability and Objective-C](https://rhammer.tistory.com/145)
 - [x] [Swift에 따른 Objective-C의 새로운 기능들 - yagom's blog](https://blog.yagom.net/519/)
 
-### MRR
+### MRR/MRC
 - [x] [[iOS] 메모리 관리 기법 - MRR (Manual Retain Release)](https://mildwhale.tistory.com/27)
+- [x] [iOS) 메모리 관리 (3/3) - MRC/MRR(Manual Reference Counting)](https://babbab2.tistory.com/28)
 
 ### Objective-C Protocol
 - [x] [objective c 프로토콜 3 - 비공식 프로토콜](https://qteveryday.tistory.com/153)
@@ -355,5 +356,6 @@
 ### Property
 - [x] [Objective-C) 프로퍼티 (1/2) - 인스턴스 변수와 프로퍼티](https://babbab2.tistory.com/74)
 - [x] [Objective-C) 프로퍼티 (2/2) - 속성(Attribute)](https://babbab2.tistory.com/75)
+
 ### to Read
 - [ ] [Router pattern with Alamofire’s URLRequestConvertible protocol Tutorial 따라해보기 !](https://suvera.tistory.com/51)
