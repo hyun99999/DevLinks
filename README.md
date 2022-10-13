@@ -54,7 +54,7 @@
 ### Objective-C
 - [Category](#category)
 - [Nullability](#nullability)
-- [MRR/MRC](#mrr/mrc)
+- [MRR/MRC](#mrrmrc)
 - [Objective-C Protocol](#objective-c-protocol)
 
 ### other
