@@ -354,6 +354,6 @@
 
 ### Property
 - [x] [Objective-C) 프로퍼티 (1/2) - 인스턴스 변수와 프로퍼티](https://babbab2.tistory.com/74)
-
+- [x] [Objective-C) 프로퍼티 (2/2) - 속성(Attribute)](https://babbab2.tistory.com/75)
 ### to Read
 - [ ] [Router pattern with Alamofire’s URLRequestConvertible protocol Tutorial 따라해보기 !](https://suvera.tistory.com/51)
