@@ -352,5 +352,8 @@
 ### Objective-C Protocol
 - [x] [objective c 프로토콜 3 - 비공식 프로토콜](https://qteveryday.tistory.com/153)
 
+### Property
+- [x] [Objective-C) 프로퍼티 (1/2) - 인스턴스 변수와 프로퍼티](https://babbab2.tistory.com/74)
+
 ### to Read
 - [ ] [Router pattern with Alamofire’s URLRequestConvertible protocol Tutorial 따라해보기 !](https://suvera.tistory.com/51)
