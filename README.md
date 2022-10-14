@@ -16,6 +16,7 @@
 - [Combine](#combine)
 - [Coordinator 패턴](#coordinator-패턴)
 - [COW(Copey-on-Write)](#cow(cow-on-write))
+- [CollectionViewFlowLayout](#collectionviewflowlayout)
 - [Dark Mode 설정](#dark-mode-설정)
 - [DesignPattern - MVVM](#designpattern---mvvm)
 - [Dependency Injection](#dependency-injection)
@@ -134,6 +135,10 @@
 - [x] [[Swift] 깊은 복사와 얕은 복사(feat. NSCopying)](https://jeong9216.tistory.com/527)
 - [x] [[Swift] Value Type의 메모리 주소](https://sujinnaljin.medium.com/swift-value-type의-메모리-주소-7d4c3de73b11)
 - [x] [Swift) COW (Copy-on-Write)](https://babbab2.tistory.com/18)
+
+### CollectionViewFlowLayout
+- [x] [iOS) UICollectionView custom layout에 대한 고찰- 1 (UICollectionViewFlowLayout, UICollectionViewLayout)](https://demian-develop.tistory.com/21?category=908651)
+- [x] [iOS) UICollectionView custom layout에 대한 고찰- 2 (UICollectionViewCompositionalLayout)](https://demian-develop.tistory.com/22?category=908651)
 
 ### Dark Mode 설정
 - [x] [다크모드(브랜디 기술블로그)](http://labs.brandi.co.kr/2019/12/19/kimjh.html)
