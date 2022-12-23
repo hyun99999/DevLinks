@@ -155,6 +155,7 @@
 
 ### Dependency Injection
 - [x] [[Swift] Dependency Injection 의존성 주입 비유로 쉽게 이해하기](https://ios-developer-storage.tistory.com/entry/Swift-Dependency-Injection-의존성-주입-비유로-쉽게-이해하기)
+- [x] [[CS] 의존성 주입(Dependency Injection)이란? (feat. 써야하는 이유)](https://fomaios.tistory.com/569)
 
 ### DispatchQueue
 - [x] [DispatchQueue(1) zedd](https://zeddios.tistory.com/516)
