@@ -169,6 +169,7 @@
 
 ### Framwork
 - [x] [[iOS] Dynamic, Static Framework(프레임워크)](https://lxxyeon.tistory.com/m/110)
+- [x] [[iOS] 빌드 결과로 보는 Static Framework 와 Dynamic Framework](https://sujinnaljin.medium.com/ios-빌드-결과로-보는-static-framework-와-dynamic-framework-8568c5840e59)
 
 ### Initialization
 - [x] [initialization(1/3)](https://wlaxhrl.tistory.com/47)
