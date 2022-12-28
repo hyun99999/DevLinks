@@ -9,6 +9,7 @@
 - [AppDelegate, SceneDelegate](#appdelegate-scenedelegate)
 - [APNs](#apns)
 - [async/await](#asyncawait)
+- [Build Setting](#build-setting)
 - [CaptureList](#capturelist)
 - [Charts open library](#charts-open-library)
 - [CleanCode](#cleancode)
@@ -102,6 +103,11 @@
 - [x] [[Swift] async / await 등장배경](https://eunjin3786.tistory.com/381)
 - [x] [AsyncStream / AsyncThrowingStream (feat. RxSwift + Concurrency) zedd](https://zeddios.tistory.com/1341)
 - [x] [AsyncSequence zedd](https://zeddios.tistory.com/1339)
+
+### Build Setting
+- [x] [[iOS - Swift] 3. Build Setting 개념 - OTHER_SWIFT_FLAGS ($inherited, -Xfrontend -debug-time-function-bodies, -Xfrontend -warn-long-expression-type-checking)](https://ios-development.tistory.com/1215)
+- [x] [[iOS - Swift] 4. Build Setting 개념 - ENABLE_TESTABILITY, Enable Testability, @testable import](https://ios-development.tistory.com/1217)
+- [x] [[iOS - Swift] 5. Build Setting 개념 - GCC_OPTIMIZATION_LEVEL (Apple Clang, -O0, O1, -O, -O3, -Os, -Ofast, -Oz)](https://ios-development.tistory.com/1218)
 
 ### CaptureList
 - [x] [unowned self vs weak self (캡쳐 리스트)-(1)](https://jinswift.tistory.com/6)
