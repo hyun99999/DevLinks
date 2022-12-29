@@ -10,6 +10,7 @@
 - [APNs](#apns)
 - [async/await](#asyncawait)
 - [Build Setting](#build-setting)
+- [Cache](#cache)
 - [CaptureList](#capturelist)
 - [Charts open library](#charts-open-library)
 - [CleanCode](#cleancode)
@@ -109,6 +110,9 @@
 - [x] [[iOS - Swift] 3. Build Setting 개념 - OTHER_SWIFT_FLAGS ($inherited, -Xfrontend -debug-time-function-bodies, -Xfrontend -warn-long-expression-type-checking)](https://ios-development.tistory.com/1215)
 - [x] [[iOS - Swift] 4. Build Setting 개념 - ENABLE_TESTABILITY, Enable Testability, @testable import](https://ios-development.tistory.com/1217)
 - [x] [[iOS - Swift] 5. Build Setting 개념 - GCC_OPTIMIZATION_LEVEL (Apple Clang, -O0, O1, -O, -O3, -Os, -Ofast, -Oz)](https://ios-development.tistory.com/1218)
+
+### Cache
+- [x] ['Cache-Control'이 필요한 이유](https://www.blog-dreamus.com/post/cache-control-이-필요한-이유)
 
 ### CaptureList
 - [x] [unowned self vs weak self (캡쳐 리스트)-(1)](https://jinswift.tistory.com/6)
