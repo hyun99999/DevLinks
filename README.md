@@ -15,6 +15,7 @@
 - [CleanCode](#cleancode)
 - [Closure](#closure)
 - [Combine](#combine)
+- [CoreData](#coredata)
 - [Coordinator 패턴](#coordinator-패턴)
 - [COW(Copey-on-Write)](#cow(cow-on-write))
 - [CollectionViewFlowLayout](#collectionviewflowlayout)
@@ -135,6 +136,9 @@
 - [ ] [[WWDC 2019] Introducing Combine](https://icksw.tistory.com/268)
 - [x] [[iOS] Combine이란? - Combine 공부 1](https://icksw.tistory.com/271)
 - [ ] [[iOS] Publisher & Subscriber - Combine 공부 2](https://icksw.tistory.com/272?category=937485)
+
+### CoreData
+- [x] [iOS) [번역] 코어데이터와 멀티스레딩](https://sihyungyou.github.io/iOS-coredata-multithreaded/)
 
 ### Coordinator 패턴
 - [x] [coordinator 패턴(브랜디 기술블로그)](http://labs.brandi.co.kr/2020/06/16/kimjh.html)
