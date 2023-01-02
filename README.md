@@ -144,6 +144,7 @@
 
 ### CoreData
 - [x] [iOS) [번역] 코어데이터와 멀티스레딩](https://sihyungyou.github.io/iOS-coredata-multithreaded/)
+- [x] [[iOS - swift] 13. 코어 데이터(Core Data)의 개념(실습) - (3)](https://ios-development.tistory.com/93)
 
 ### Coordinator 패턴
 - [x] [coordinator 패턴(브랜디 기술블로그)](http://labs.brandi.co.kr/2020/06/16/kimjh.html)
