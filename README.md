@@ -275,6 +275,7 @@
 
 ### Swift
 - [x] [swift 5.0 변경사항 zedd](https://zeddios.tistory.com/680)
+- [x] [Swift 5.7: Optional Binding, Closure Type Inference, Clock, Noasync](https://blog.appsynth.net/swift-5-7-optional-binding-closure-type-inference-clock-noasync-657b583eb26d)
 
 ### Try
 - [x] [try? zedd](https://zeddios.tistory.com/650)
