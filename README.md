@@ -18,7 +18,7 @@
 - [Combine](#combine)
 - [CoreData](#coredata)
 - [Coordinator 패턴](#coordinator-패턴)
-- [COW(Copey-on-Write)](#cow(cow-on-write))
+- [COW(Copey-on-Write)](#cowcopey-on-write)
 - [CollectionViewFlowLayout](#collectionviewflowlayout)
 - [Dark Mode 설정](#dark-mode-설정)
 - [DesignPattern - MVVM](#designpattern---mvvm)
@@ -241,7 +241,7 @@
 ### ReactorKit
 - [x] [[iOS] ReactorKit이란?](https://janechoi.tistory.com/17)
 
-### Relam
+### Realm
 - [x] [[iOS] Realm 기본 설계 + Realm에 저장하고 가져오기](https://roniruny.tistory.com/233)
 
 ### RxSwift
