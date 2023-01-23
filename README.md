@@ -43,6 +43,7 @@
 - [RxSwift](#rxswift)
 - [Screen Size](#screen-size)
 - [Swift](#swift)
+- [Test](#test)
 - [Try](#try)
 - [UISearchController](#uisearchcontroller)
 - [UIVisualEffect](#uivisualeffect)
@@ -288,6 +289,9 @@
 
 ### Try
 - [x] [try? zedd](https://zeddios.tistory.com/650)
+
+### Test
+- [x] [Server-Driven UI using SwiftUI](https://lyesderouich.medium.com/server-driven-ui-using-swiftui-b91be442b3f6)
 
 ### URLSession
 - [x] [[iOS+Network] Swift를 곁들인 URL 구조 분석](https://taekki-dev.tistory.com/114)
