@@ -27,6 +27,7 @@
 - [Framwork](#framwork)
 - [HIG](#hig)
 - [Initialization](#initialization)
+- [iOS](ios)
 - [Keyboard issue](#keyboard-issue)
 - [Lazy](#lazy)
 - [LiveActivity](#liveactivity)
@@ -198,6 +199,9 @@
 - [x] [initialization(2/3)](https://wlaxhrl.tistory.com/48)
 - [x] [initialization(3/3)](https://wlaxhrl.tistory.com/49)
 - [x] [initialization 정리](http://minsone.github.io/mac/ios/swift-initialization-summary)
+
+### iOS
+- [x] [The iOS 16.1 Update Is Exactly What You Didn’t Know You Needed — What’s New?](https://medium.com/macoclock/the-ios-16-1-update-is-exactly-what-you-didnt-know-you-needed-what-s-new-5d5a226edd0f)
 
 ### Keyboard issue
 - [x] [터치해서 키보드 내리기 zedd](https://zeddios.tistory.com/m/132)
