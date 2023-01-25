@@ -118,7 +118,7 @@
 ### Cache
 - [x] ['Cache-Control'이 필요한 이유](https://www.blog-dreamus.com/post/cache-control-이-필요한-이유)
 - [x] [Cache 앱의 캐시 사용하기](https://pikachu987.tistory.com/m/33)
-
+- [x] [NSCache vs URLCache](https://green1229.tistory.com/m/268)
 ### CaptureList
 - [x] [unowned self vs weak self (캡쳐 리스트)-(1)](https://jinswift.tistory.com/6)
 
