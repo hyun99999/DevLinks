@@ -28,7 +28,6 @@
 - [HIG](#hig)
 - [Initialization](#initialization)
 - [iOS](#ios)
-- [JSON](#json)
 - [Keyboard issue](#keyboard-issue)
 - [Lazy](#lazy)
 - [LiveActivity](#liveactivity)
@@ -74,7 +73,8 @@
 - [x] [get, post 차이를 아시나요?](https://velog.io/@songyouhyun/Get과-Post의-차이를-아시나요)
 - [x] [[GitHub] GitHub로 협업하는 방법[2] - Forking Workflow](https://gmlwjd9405.github.io/2017/10/28/how-to-collaborate-on-GitHub-2.html)
 - [x] [TTF? OTF? zedd](https://zeddios.tistory.com/198)
-
+- [x] [Prevent copy & paste into other iOS apps](https://blog.eidinger.info/prevent-copy-paste-into-other-ios-apps)
+- [x] [Working with complicated JSON response in Swift](https://medium.com/@z.carthage/working-with-complicated-json-response-in-swift-34fd8ee7e70b)
 ---
 
 ### Actor
@@ -204,9 +204,6 @@
 
 ### iOS
 - [x] [The iOS 16.1 Update Is Exactly What You Didn’t Know You Needed — What’s New?](https://medium.com/macoclock/the-ios-16-1-update-is-exactly-what-you-didnt-know-you-needed-what-s-new-5d5a226edd0f)
-
-### JSON
-- [x] [Working with complicated JSON response in Swift](https://medium.com/@z.carthage/working-with-complicated-json-response-in-swift-34fd8ee7e70b)
 
 ### Keyboard issue
 - [x] [터치해서 키보드 내리기 zedd](https://zeddios.tistory.com/m/132)
