@@ -392,6 +392,8 @@
 ### Navigation
 - [x] [[SwiftUI] NavigationView ➡️ NavigationStack](https://zeddios.tistory.com/1376)
 
+### Other
+- [x] [UIKit 프로젝트에 SwiftUI 적용 전 고려할 4가지](https://medium.com/delightroom/uikit-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%EC%97%90-swiftui-%EC%A0%81%EC%9A%A9%EC%A0%84-%EA%B3%A0%EB%A0%A4%ED%95%A0-4%EA%B0%80%EC%A7%80-f22406efb4cc)
 ---
 
 # Objective-C
