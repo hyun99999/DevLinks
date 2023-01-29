@@ -324,11 +324,9 @@
 ### UICollectionview
 - [x] [iOS) UICollectionViewCell Dynamic Height, 동적 높이 구현하기 with Dummy Cell](https://corykim0829.github.io/ios/UICollectionViewCell-dynamic-height/#)
 
-
 ### UITableView
 - [x] [TableView 동적이 셀높이](https://velog.io/@tnddls2ek/TableView-동적인-셀-높이-조절)
 - [x] [UITableView drag&drop](https://furang-note.tistory.com/31?category=885524)
-
 
 ### UIPickerView
 - [x] [[iOS] 피커뷰 뽀개기 - HoonIOS](https://boidevelop.tistory.com/108)
@@ -341,7 +339,6 @@
 - [x] [Swift SwipeGestureRecognizer 사용하기 (좌, 우)](https://doorganizedcoding.tistory.com/13)
 - [x] [iOS ) Gesture Recognizer - Swipe zedd](https://zeddios.tistory.com/345)
 
-
 ### View Life Cycle
 - [x] [cell Life Cycle](https://jinnify.tistory.com/58)
 
@@ -351,6 +348,7 @@
 
 ### Watch
 - [x] [Three Ways to communicate via WatchConnectivity](https://alexanderweiss.dev/blog/2023-01-18-three-ways-to-communicate-via-watchconnectivity/)
+- [x] [[WatchOS] Watch Connectivity](https://eunjin3786.tistory.com/377)
 
 ### Widget
 - [x] [widget(1) zedd](https://zeddios.tistory.com/1088)
