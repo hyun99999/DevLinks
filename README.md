@@ -56,6 +56,7 @@
 - [UISwipeGestureRecognizer](#uiswipegesturerecognizer)
 - [View Life Cycle](#view-life-cycle)
 - [Version Check](#version-check)
+- [Watch](#watch)
 - [Widget](#widget)
 - [WWDC22](#wwdc22)
 - [Xcode Update](#xcode-update)
@@ -347,6 +348,9 @@
 ### Version Check
 - [x] [iOS ) 최신버전확인하기 / App Update zedd](https://zeddios.tistory.com/372)
 - [x] [[iOS - Swift] 현재 버전과 앱 스토어 버전 체크](https://kirinit.tistory.com/10)
+
+### Watch
+- [x] [Three Ways to communicate via WatchConnectivity](https://alexanderweiss.dev/blog/2023-01-18-three-ways-to-communicate-via-watchconnectivity/)
 
 ### Widget
 - [x] [widget(1) zedd](https://zeddios.tistory.com/1088)
