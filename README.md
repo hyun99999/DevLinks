@@ -358,7 +358,7 @@
 - [x] [Add configuration and intelligence to your widgets - 한글 정리](https://protocorn93.github.io/tags/Widget-Configuration/)
 - [x] [How to Create an iOS Lock Screen Widget?](https://leekahseng.medium.com/how-to-create-an-ios-lock-screen-widget-caf65f3dd7b8)
 - [x] [Debugging Widgets](https://developer.apple.com/documentation/widgetkit/debugging-widgets)
-
+- [x] [Getting Started With WidgetKit](https://swiftsenpai.com/development/getting-started-widgetkit/)
 
 ### WWDC22
 - [x] [What's new in UIKit](https://developer.apple.com/wwdc22/10068)
