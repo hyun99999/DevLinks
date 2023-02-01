@@ -78,6 +78,7 @@
 - [x] [Working with complicated JSON response in Swift](https://medium.com/@z.carthage/working-with-complicated-json-response-in-swift-34fd8ee7e70b)
 - [x] [Importance of podfile.lock](https://medium.com/@abdullah.daihan_97261/importance-of-podfile-lock-in-ios-app-development-6624a6ae99ec)
 - [x] [Swift) Class VS Struct](https://co-dong.tistory.com/79#recentEntries)
+- [x] [Swift Localization 로컬라이징 처리하기!](https://i-colours-u.tistory.com/22)
 ---
 
 ### Actor
