@@ -283,6 +283,7 @@
 - [x] [Main.storyboard 없이 프로젝트 시작하기](https://developer-fury.tistory.com/41)
 - [x] [Remove Storyboard](https://velog.io/@fenta0917/00.RemoveStoryBoard)
 - [x] [스토리보드 없이 코드로만 UI 구현하기](https://velog.io/@lina0322/iOSSwift-스토리보드-없이-코드로만-UI-구현하기-SceneDelegate에서-window설정)
+- [x] [Delete Storyboard (Xcode 14 Edition)](https://stevenpcurtis.medium.com/delete-storyboard-xcode-14-edition-5bb78c150ff5)
 
 ### Screen Size
 - [x] [iPhone 14 Screen Sizes](https://useyourloaf.com/blog/iphone-14-screen-sizes/)
