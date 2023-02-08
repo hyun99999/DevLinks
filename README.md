@@ -126,6 +126,7 @@
 - [x] [NSCache vs URLCache](https://green1229.tistory.com/m/268)
 ### CaptureList
 - [x] [unowned self vs weak self (캡쳐 리스트)-(1)](https://jinswift.tistory.com/6)
+- [x] [NSCache와 URLCache의 차이](https://velog.io/@apwierk2451/NSCache와-URLCache의-차이)
 
 ### Charts open library
 - [x] [차트 라이브러리](https://gonslab.tistory.com/11?category=906018)
