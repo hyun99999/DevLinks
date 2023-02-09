@@ -272,6 +272,10 @@
 - [x] [[RxSwift] 4. Observables and Subjects 실전 적용](https://ios-development.tistory.com/105?category=916618)
 - [x] [[RxSwift] Observer](https://sujinnaljin.medium.com/rxswift-observer-fdc8d2772d6c)
 - [x] [[RxSwift] Subject](https://sujinnaljin.medium.com/rxswift-subject-99b401e5d2e5)
+- [x] [[RxSwift] ControlProperty, ControlEvent](https://inuplace.tistory.com/1101)
+- [x] [[Rx] Observable, Observer, Disposable, Subject, Relay](https://roniruny.tistory.com/261)
+- [x] [RxCocoa 맛보기](https://duwjdtn11.tistory.com/628)
+- [x] [RxSwift Subscribe, Bind, Drive 차이점](https://1000one.tistory.com/61)
 
 ### Singleton pattern
 - [x] [Singleton Pattern (싱글턴) - 디자인 패턴 공부 6](https://icksw.tistory.com/239?category=944177)
