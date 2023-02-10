@@ -276,6 +276,10 @@
 - [x] [[Rx] Observable, Observer, Disposable, Subject, Relay](https://roniruny.tistory.com/261)
 - [x] [RxCocoa 맛보기](https://duwjdtn11.tistory.com/628)
 - [x] [RxSwift Subscribe, Bind, Drive 차이점](https://1000one.tistory.com/61)
+- [x] [[RxSwift] 에러 핸들링](https://yang-subinn.tistory.com/19)
+- [x] [4. Error Handling - catch, catchAndReturn, retry](https://roniruny.tistory.com/269)
+- [x] [[RxSwift] 5.Filtering Operators](https://ios-development.tistory.com/106)
+
 
 ### Singleton pattern
 - [x] [Singleton Pattern (싱글턴) - 디자인 패턴 공부 6](https://icksw.tistory.com/239?category=944177)
