@@ -279,7 +279,7 @@
 - [x] [[RxSwift] 에러 핸들링](https://yang-subinn.tistory.com/19)
 - [x] [4. Error Handling - catch, catchAndReturn, retry](https://roniruny.tistory.com/269)
 - [x] [[RxSwift] 5.Filtering Operators](https://ios-development.tistory.com/106)
-
+- [x] [Ch.14 Error Handling in Practice](https://github.com/fimuxd/RxSwift/blob/master/Lectures/14_Error%20Handling%20in%20Practice/Ch.14%20Error%20Handling%20in%20Practice.md)
 
 ### Singleton pattern
 - [x] [Singleton Pattern (싱글턴) - 디자인 패턴 공부 6](https://icksw.tistory.com/239?category=944177)
