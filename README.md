@@ -281,6 +281,7 @@
 - [x] [[RxSwift] 5.Filtering Operators](https://ios-development.tistory.com/106)
 - [x] [Ch.14 Error Handling in Practice](https://github.com/fimuxd/RxSwift/blob/master/Lectures/14_Error%20Handling%20in%20Practice/Ch.14%20Error%20Handling%20in%20Practice.md)
 - [x] [RxSwift #5 — 예시와 함께 보는 Error Handling](https://okanghoon.medium.com/rxswift-5-error-handling-example-9f15176d11fc)
+- [x] [RxSwift #4 — RxSwift 를 이용한 MVVM 패턴](https://okanghoon.medium.com/rxswift-4-mvvm-with-rxswift-17a9b6d43746)
 
 ### Singleton pattern
 - [x] [Singleton Pattern (싱글턴) - 디자인 패턴 공부 6](https://icksw.tistory.com/239?category=944177)
