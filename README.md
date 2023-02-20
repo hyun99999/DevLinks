@@ -219,6 +219,7 @@
 
 ### LiveActivity
 - [[SwiftUI] Widget LiveActivity (feat. Dynamic Island) 잠금화면 기능](https://nsios.tistory.com/194)
+- [[iOS 16+] Live Activity](https://zeddios.tistory.com/1382)
 
 ### MapKit
 - [x] [MapKit 으로 위치 검색 자동완성 구현하기](https://daheenallwhite.github.io/ios/2019/08/07/MKLocalSearchCompleter/)
