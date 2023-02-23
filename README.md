@@ -13,6 +13,7 @@
 - [Cache](#cache)
 - [CaptureList](#capturelist)
 - [Charts open library](#charts-open-library)
+- [Class vs Struct](#class-vs-struct)
 - [CleanCode](#cleancode)
 - [Closure](#closure)
 - [Combine](#combine)
@@ -131,6 +132,9 @@
 ### Charts open library
 - [x] [차트 라이브러리](https://gonslab.tistory.com/11?category=906018)
 - [x] [gitCat 에서 Charts 사용](https://blog.naver.com/yoon980208/222076657031)
+
+### Class vs Struct
+- [x] [Swift : Struct vs Class](https://showcove.medium.com/swift-struct-vs-class-1-68cf9cbf87ca)
 
 ### CleanCode
 - [x] [Clean Code(클린 코드) - 2. 의미 있는 이름](https://ios-development.tistory.com/754?category=1017980)
