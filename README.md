@@ -291,6 +291,7 @@
 - [x] [iOS MVVM 패턴 구현 정리 ( with RxSwift )](https://linux-studying.tistory.com/28)
 - [x] [Traits (formerly Units)](https://github.com/ReactiveX/RxSwift/blob/main/Documentation/Traits.md#general)
 - [x] [RxSwift in 4 hours 정리(1)](https://miiiiiin-devlog.tistory.com/3)
+- [x] [RxSwift in 4 hours 정리(2)](https://miiiiiin-devlog.tistory.com/4)
 
 ### Singleton pattern
 - [x] [Singleton Pattern (싱글턴) - 디자인 패턴 공부 6](https://icksw.tistory.com/239?category=944177)
