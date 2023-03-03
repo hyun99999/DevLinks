@@ -32,8 +32,9 @@
 - [Keyboard issue](#keyboard-issue)
 - [Lazy](#lazy)
 - [LiveActivity](#liveactivity)
-- [Memory](#memory)
 - [MapKit](#mapkit)
+- [Memory](#memory)
+- [Modularization](#modularization)
 - [NSCache](#nscache)
 - [Pattern](#pattern)
 - [Protocol](#protocol)
@@ -233,6 +234,13 @@
 - [x] [Swift) String에 대한 고찰 (1) - Struct인데 Heap에 저장 된다고?](https://babbab2.tistory.com/35)
 - [x] [Swift의 Type과 메모리 저장 공간](https://sujinnaljin.medium.com/ios-swift의-type과-메모리-저장-공간-25555c69ccff)
 - [x] [Swift의 Type과 메모리 저장 공간](https://shark-sea.kr/entry/iOS-Swift-메모리의-Stack과-Heap-영역-톺아보기)
+
+### Modularization
+- [x] [[iOS - swift] 1. 모듈화 개념 - Library vs Framework (static library, dynamic library, static framework, dynamic framework)](https://ios-development.tistory.com/1004)
+- [x] [3[iOS - swift] 2. 모듈화 개념 - Binary File 개념 (Mach-O, CPU Architectures, Universal binary, lipo command)](https://ios-development.tistory.com/1007)
+- [x] [[iOS - swift] 3. 모듈화 개념 - XCFramework 생성, 사용 방법](https://ios-development.tistory.com/1005)
+- [x] [[iOS - swift] 4. 모듈화 개념 - Tuist로 프로젝트 관리 방법](https://ios-development.tistory.com/1006)
+- [x] [iOS Library, Framework, Swift Package,,, 알아보자 차이점](https://medium.com/delightroom/ios-library-framework-swift-package-알아보자-차이점-1f42c7848771)
 
 ### NSCache
 - [x] [swift 에서 dictionary와 NScache의 차이와 thread safe 하다는 뜻](https://dev200ok.blogspot.com/2021/11/dictionary-nscache-thread-safe.html)
