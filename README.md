@@ -62,6 +62,7 @@
 - [Widget](#widget)
 - [WWDC22](#wwdc22)
 - [Xcode Update](#xcode-update)
+- [XCTest](#xctest)
 - [Other](#other)
 
 ### SwiftUI
@@ -394,6 +395,10 @@
 
 ### Xcode Update
 - [x] [Xcode 14부터 바뀐 것들](https://medium.com/@jungkim/xcode-14부터-바뀐-것들-9dda016f25bd)
+
+### XCTest
+- [x] [[iOS - swift] Nimble, Quick 프레임워크 (Unit test)](https://ios-development.tistory.com/338)
+- [x] [Swift ) Quick / Nimble 간단하게 사용해보기](https://zeddios.tistory.com/1245)
 
 ### other
 - [x] [get, post 차이를 아시나요?](https://velog.io/@songyouhyun/Get과-Post의-차이를-아시나요)
