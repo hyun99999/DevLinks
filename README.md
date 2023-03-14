@@ -400,7 +400,7 @@
 - [x] [[iOS - swift] Nimble, Quick 프레임워크 (Unit test)](https://ios-development.tistory.com/338)
 - [x] [Swift ) Quick / Nimble 간단하게 사용해보기](https://zeddios.tistory.com/1245)
 
-### other
+### Other
 - [x] [get, post 차이를 아시나요?](https://velog.io/@songyouhyun/Get과-Post의-차이를-아시나요)
 - [x] [[GitHub] GitHub로 협업하는 방법[2] - Forking Workflow](https://gmlwjd9405.github.io/2017/10/28/how-to-collaborate-on-GitHub-2.html)
 - [x] [TTF? OTF? zedd](https://zeddios.tistory.com/198)
@@ -410,6 +410,14 @@
 - [x] [Swift) Class VS Struct](https://co-dong.tistory.com/79#recentEntries)
 - [x] [Swift Localization 로컬라이징 처리하기!](https://i-colours-u.tistory.com/22)
 - [x] [새로운 iOS UI 개발 방법 feat. FlexLayout](https://okanghoon.medium.com/새로운-ios-ui-개발-feat-flexlayout-64d0ca8091a7)
+- [x] [FlexLayout (1)](https://green1229.tistory.com/242)
+- [x] [FlexLayout (2)](https://green1229.tistory.com/243)
+- [x] [FlexLayout (3)](https://green1229.tistory.com/244)
+- [x] [FlexLayout (4)](https://green1229.tistory.com/245)
+- [x] [FlexLayout (5)](https://green1229.tistory.com/246)
+- [x] [FlexLayout (6)](https://green1229.tistory.com/247)
+- [x] [FlexLayout (7)](https://green1229.tistory.com/248)
+
 
 ---
 
