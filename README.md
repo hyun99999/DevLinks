@@ -176,6 +176,7 @@
 - [x] [간단한 network + MVVM패턴](https://haningya.tistory.com/67)
 - [x] [iOS에서 MVC는 왜 망가질까](https://jisoo.net/2018/11/24/why-mvc-destroyed.html)
 - [x] [swift MVVM 정리 및 예제](https://42kchoi.tistory.com/292)
+- [x] [[iOS - swift] MVVM 구조 - ViewModel을 testable하도록 구현 방법 (DI, DIP, 추상화)](https://ios-development.tistory.com/779)
 
 ### Dependency Injection
 - [x] [[Swift] Dependency Injection 의존성 주입 비유로 쉽게 이해하기](https://ios-developer-storage.tistory.com/entry/Swift-Dependency-Injection-의존성-주입-비유로-쉽게-이해하기)
@@ -297,8 +298,9 @@
 - [x] [RxSwift 4시간 만에 끝내기](https://rldd.tistory.com/131)
 - [x] [[Architecture] RxSwift, MVVM 구조 코드](https://ios-development.tistory.com/173)
 - [x] [RxSwift Input/Output 구조 사용하기](https://coding-idiot.tistory.com/7)
-- [x] []()
-- [x] []()
+- [x] [[RxSwift 응용] 2. MVVM with RxSwift](https://ios-development.tistory.com/140)
+- [x] [[UnitTest] RxSwift, MVVM 구조의 테스트 코드 작성 하기 (RxTest, RxNimble)](https://ios-development.tistory.com/172)
+- [x] [[iOS - swift] RxGesture (+ tapGesture 바인딩 시 emit 현상 해결 방법)](https://ios-development.tistory.com/312)
 
 ### Singleton pattern
 - [x] [Singleton Pattern (싱글턴) - 디자인 패턴 공부 6](https://icksw.tistory.com/239?category=944177)
