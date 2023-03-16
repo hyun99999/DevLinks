@@ -236,6 +236,9 @@
 - [x] [[iOS - swift] 4. 모듈화 개념 - Tuist로 프로젝트 관리 방법](https://ios-development.tistory.com/1006)
 - [x] [iOS Library, Framework, Swift Package,,, 알아보자 차이점](https://medium.com/delightroom/ios-library-framework-swift-package-알아보자-차이점-1f42c7848771)
 - [x] [[iOS - swift] Xcode의 Target, Project, Workspace 개념](https://ios-development.tistory.com/m/1008)
+- [x] [Xcode 프로젝트 관리를 위한 Tuist 알아보기](https://okanghoon.medium.com/xcode-프로젝트-관리를-위한-tuist-알아보기-6a92950780be)
+- [x] [[iOS - Swift] 1. Tuist로 모듈화하기 - 이미 존재하는 프로젝트에 적용 방법](https://ios-development.tistory.com/1210)
+- [x] [당근마켓) XcodeGen 에서 Tuist 로 전환하기](https://medium.com/daangn/xcodegen-에서-tuist-로-전환하기-3f0156e0c2ea)
 
 ### NSCache
 - [x] [swift 에서 dictionary와 NScache의 차이와 thread safe 하다는 뜻](https://dev200ok.blogspot.com/2021/11/dictionary-nscache-thread-safe.html)
