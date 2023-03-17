@@ -239,6 +239,8 @@
 - [x] [Xcode 프로젝트 관리를 위한 Tuist 알아보기](https://okanghoon.medium.com/xcode-프로젝트-관리를-위한-tuist-알아보기-6a92950780be)
 - [x] [[iOS - Swift] 1. Tuist로 모듈화하기 - 이미 존재하는 프로젝트에 적용 방법](https://ios-development.tistory.com/1210)
 - [x] [당근마켓) XcodeGen 에서 Tuist 로 전환하기](https://medium.com/daangn/xcodegen-에서-tuist-로-전환하기-3f0156e0c2ea)
+- [x] [[iOS - Swift] 1. Tuist로 모듈화하기 - 이미 존재하는 프로젝트에 적용 방법]()
+- [x] [[iOS - Swift] 2. Tuist로 모듈화하기 - 기본 개념 (Dynamic Framework, Static Framework, Mach-O, Embed & Sign, Do Not Embed)](https://ios-development.tistory.com/1227)
 
 ### NSCache
 - [x] [swift 에서 dictionary와 NScache의 차이와 thread safe 하다는 뜻](https://dev200ok.blogspot.com/2021/11/dictionary-nscache-thread-safe.html)
