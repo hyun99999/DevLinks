@@ -424,6 +424,7 @@
 - [x] [FlexLayout (5)](https://green1229.tistory.com/246)
 - [x] [FlexLayout (6)](https://green1229.tistory.com/247)
 - [x] [FlexLayout (7)](https://green1229.tistory.com/248)
+- [x] [FlexLayout (2) zedd](https://zeddios.tistory.com/1253)
 
 
 ---
