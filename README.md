@@ -425,7 +425,8 @@
 - [x] [FlexLayout (6)](https://green1229.tistory.com/247)
 - [x] [FlexLayout (7)](https://green1229.tistory.com/248)
 - [x] [FlexLayout (2) zedd](https://zeddios.tistory.com/1253)
-
+- [x] [Swift) Metatype(.self, .Type, .Protocol) 정복하기 (1/2)](https://babbab2.tistory.com/151)
+- [x] [Swift) Metatype(.self, .Type, .Protocol) 정복하기 (2/2)](https://babbab2.tistory.com/152)
 
 ---
 
