@@ -427,6 +427,7 @@
 - [x] [FlexLayout (2) zedd](https://zeddios.tistory.com/1253)
 - [x] [Swift) Metatype(.self, .Type, .Protocol) 정복하기 (1/2)](https://babbab2.tistory.com/151)
 - [x] [Swift) Metatype(.self, .Type, .Protocol) 정복하기 (2/2)](https://babbab2.tistory.com/152)
+- [x] [iOS Background Mode](https://medium.com/cashwalk/ios-background-mode-9bf921f1c55b)
 
 ---
 
