@@ -457,6 +457,7 @@
 - [x] [[iOS] Target-Action : UIControl 객체가 이벤트에 응답하는 방식](https://daheenallwhite.github.io/ios/2019/07/24/Target-Action/)
 - [x] [Hashable in Swift 5](https://zeddios.tistory.com/251)
 - [x] [Capture Prevent](https://medium.com/@shvul/protecting-imageview-content-on-ios-d84c498e38e2)
+- [x] [[Basis] 내가 보려고 정리하는 개발 용어 사전 (1) - 프레임워크(Framework)와 라이브러리(Library)](https://mini-min-dev.tistory.com/169)
 
 # SwiftUI
 
