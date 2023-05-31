@@ -431,6 +431,7 @@
 - [x] [iOS Background Mode](https://medium.com/cashwalk/ios-background-mode-9bf921f1c55b)
 - [x] [Swift RandomAccessCollection 프로토콜 특징, 사용법](https://0urtrees.tistory.com/138)
 - [x] [Swift BidirectionalCollection, 양방향컬렉션 알아보기](https://0urtrees.tistory.com/120)
+- [x] [Mirror](https://green1229.tistory.com/358) 
 
 
 ---
