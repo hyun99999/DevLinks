@@ -407,6 +407,7 @@
 ### XCTest
 - [x] [[iOS - swift] Nimble, Quick 프레임워크 (Unit test)](https://ios-development.tistory.com/338)
 - [x] [Swift ) Quick / Nimble 간단하게 사용해보기](https://zeddios.tistory.com/1245)
+- [x] [[Swift] Mock 을 이용한 Network Unit Test 하기](https://sujinnaljin.medium.com/swift-mock-을-이용한-network-unit-test-하기-a69570defb41)
 
 ### Other
 - [x] [get, post 차이를 아시나요?](https://velog.io/@songyouhyun/Get과-Post의-차이를-아시나요)
