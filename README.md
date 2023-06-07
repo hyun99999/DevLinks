@@ -145,6 +145,7 @@
 ### Closure
 - [x] [[Swift] @autoclosure란?](https://jusung.github.io/AutoClosure/)
 - [x] [Escaping closure](https://onemoonstudio.tistory.com/13)
+- [x] [[Swift 문법] Swift 공식 문서 정리 - 7 - Closures (클로저)](https://icksw.tistory.com/9) 
 
 ### Combine
 - [ ] [[WWDC 2019] Introducing Combine](https://icksw.tistory.com/268)
