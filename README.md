@@ -404,6 +404,7 @@
 
 ### Xcode Update
 - [x] [Xcode 14부터 바뀐 것들](https://medium.com/@jungkim/xcode-14부터-바뀐-것들-9dda016f25bd)
+- [x] [What's new in Xcode 15 (feat. WWDC 2023)](https://green1229.tistory.com/370)
 
 ### XCTest
 - [x] [[iOS - swift] Nimble, Quick 프레임워크 (Unit test)](https://ios-development.tistory.com/338)
