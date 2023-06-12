@@ -66,7 +66,9 @@
 - [Other](#other)
 
 ### SwiftUI
+- [SwiftUI](#swiftui)
 - [Navigation](#navigation)
+- [Other](#other)
 
 ### Objective-C
 - [Category](#category)
@@ -464,6 +466,9 @@
 - [x] [[Basis] 내가 보려고 정리하는 개발 용어 사전 (1) - 프레임워크(Framework)와 라이브러리(Library)](https://mini-min-dev.tistory.com/169)
 
 # SwiftUI
+
+### SwiftUI
+- [x] [What's new in SwiftUI (feat. WWDC 2023)](https://green1229.tistory.com/371)
 
 ### Navigation
 - [x] [[SwiftUI] NavigationView ➡️ NavigationStack](https://zeddios.tistory.com/1376)
