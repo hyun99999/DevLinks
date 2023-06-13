@@ -470,6 +470,7 @@
 ### SwiftUI
 - [x] [What's new in SwiftUI (feat. WWDC 2023)](https://green1229.tistory.com/371)
 - [x] [Discover Observation in SwiftUI (feat. WWDC 2023)](https://green1229.tistory.com/373)
+- [x] [Advanced animations in SwiftUI (feat. WWDC 2023)](https://green1229.tistory.com/m/374)
 
 ### Navigation
 - [x] [[SwiftUI] NavigationView ➡️ NavigationStack](https://zeddios.tistory.com/1376)
