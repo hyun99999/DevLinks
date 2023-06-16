@@ -438,7 +438,7 @@
 - [x] [Swift RandomAccessCollection 프로토콜 특징, 사용법](https://0urtrees.tistory.com/138)
 - [x] [Swift BidirectionalCollection, 양방향컬렉션 알아보기](https://0urtrees.tistory.com/120)
 - [x] [Mirror](https://green1229.tistory.com/358) 
-
+- [x] [[Swift] 공식 문서 - 문자열과 문자 (Strings and Characters)](https://jeong9216.tistory.com/177)
 
 ---
 
@@ -472,6 +472,7 @@
 - [x] [What's new in SwiftUI (feat. WWDC 2023)](https://green1229.tistory.com/371)
 - [x] [Discover Observation in SwiftUI (feat. WWDC 2023)](https://green1229.tistory.com/373)
 - [x] [Advanced animations in SwiftUI (feat. WWDC 2023)](https://green1229.tistory.com/m/374)
+- [ ] 
 
 ### Navigation
 - [x] [[SwiftUI] NavigationView ➡️ NavigationStack](https://zeddios.tistory.com/1376)
