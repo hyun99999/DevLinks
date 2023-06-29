@@ -281,6 +281,9 @@
 
 ### Realm
 - [x] [[iOS] Realm 기본 설계 + Realm에 저장하고 가져오기](https://roniruny.tistory.com/233)
+- [x] [2. Realm 모델 만드는 방법](https://ios-daniel-yang.tistory.com/99#article-2--realm-모델-만드는-방법)
+- [x] [[iOS] iOS Realm Migration(마이그레이션) 하는법](https://jerry-bakery.tistory.com/entry/iOS-iOS-Realm-Migration마이그레이션-하는법)
+- [x] [Change an Object Model - Swift SDK](https://www.mongodb.com/docs/realm/sdk/swift/model-data/change-an-object-model/#change-an-object-model---swift-sdk)
 
 ### RxSwift
 - [x] [RxSwift 스터디 깃허브](https://github.com/5anniversary/RxSwiftStudy/blob/main/week1.md)
