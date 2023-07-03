@@ -114,6 +114,7 @@
 - [x] [[Swift] async / await 등장배경](https://eunjin3786.tistory.com/381)
 - [x] [AsyncStream / AsyncThrowingStream (feat. RxSwift + Concurrency) zedd](https://zeddios.tistory.com/1341)
 - [x] [AsyncSequence zedd](https://zeddios.tistory.com/1339)
+- [x] [[Swift Concurrency] 기존 GCD 방식과 Swift Concurrency의 차이점이 무엇일까? + Continuation?](https://worldseawater.tistory.com/107)
 
 ### Build Setting
 - [x] [[iOS - Swift] 3. Build Setting 개념 - OTHER_SWIFT_FLAGS ($inherited, -Xfrontend -debug-time-function-bodies, -Xfrontend -warn-long-expression-type-checking)](https://ios-development.tistory.com/1215)
