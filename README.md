@@ -447,8 +447,8 @@
 - [x] [Swift RandomAccessCollection 프로토콜 특징, 사용법](https://0urtrees.tistory.com/138)
 - [x] [Swift BidirectionalCollection, 양방향컬렉션 알아보기](https://0urtrees.tistory.com/120)
 - [x] [Mirror](https://green1229.tistory.com/358) 
-- [x] [[https://jusung.gitbook.io/the-swift-language-guide/language-guide/22-genericsSwift] 공식 문서 - 문자열과 문자 (Strings and Characters)](https://jeong9216.tistory.com/177)
-- [](
+- [x] [generic](https://jusung.gitbook.io/the-swift-language-guide/language-guide/22-genericsSwift)
+- [x] 공식 문서 - 문자열과 문자 (Strings and Characters)](https://jeong9216.tistory.com/177)
 ---
 
 - [x] [[Swift] Type Inference와 Type Annotation 속도 비교](https://jeong9216.tistory.com/518?category=1019144)
