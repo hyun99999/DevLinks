@@ -38,6 +38,7 @@
 - [Memory](#memory)
 - [Modularization](#modularization)
 - [NSCache](#nscache)
+- [OpenSource Library](#opensourcelibrary)
 - [Pattern](#pattern)
 - [Protocol](#protocol)
 - [Property](#property)
@@ -258,7 +259,18 @@
 
 ### NSCache
 - [x] [swift 에서 dictionary와 NScache의 차이와 thread safe 하다는 뜻](https://dev200ok.blogspot.com/2021/11/dictionary-nscache-thread-safe.html)
-- [x] [Swift) 이미지 다운로드, 캐싱 - EEYatHo iOS](https://eeyatho.tistory.com/183?category=929245)
+- [x] [Swift) 이미지 다운로드, 캐싱 - EEYatHo iOS](https://eeyatho.tistory.com/183?category=929245
+
+### OpenSource Library
+- [x] [FlexLayout (1)](https://green1229.tistory.com/242)
+- [x] [FlexLayout (2)](https://green1229.tistory.com/243)
+- [x] [FlexLayout (3)](https://green1229.tistory.com/244)
+- [x] [FlexLayout (4)](https://green1229.tistory.com/245)
+- [x] [FlexLayout (5)](https://green1229.tistory.com/246)
+- [x] [FlexLayout (6)](https://green1229.tistory.com/247)
+- [x] [FlexLayout (7)](https://green1229.tistory.com/248)
+- [x] [FlexLayout (2) zedd](https://zeddios.tistory.com/1253)
+
 
 ### Pattern
 - [x] [옵셔널 패턴 (optional pattern)](https://velog.io/@devapploper/옵셔널-패턴-optional-pattern)
@@ -353,6 +365,13 @@
 ### Test
 - [x] [Server-Driven UI using SwiftUI](https://lyesderouich.medium.com/server-driven-ui-using-swiftui-b91be442b3f6)
 
+### Type
+- [x] [[Swift] Type Inference와 Type Annotation 속도 비교](https://jeong9216.tistory.com/518?category=1019144)
+- [x] 문자열 : https://batterflyyin.tistory.com/22
+- [x] [Swift) Metatype(.self, .Type, .Protocol) 정복하기 (1/2)](https://babbab2.tistory.com/151)
+- [x] [Swift) Metatype(.self, .Type, .Protocol) 정복하기 (2/2)](https://babbab2.tistory.com/152)
+- [x] [generic](https://jusung.gitbook.io/the-swift-language-guide/language-guide/22-genericsSwift)
+
 ### URLSession
 - [x] [[iOS+Network] Swift를 곁들인 URL 구조 분석](https://taekki-dev.tistory.com/114)
 
@@ -438,26 +457,15 @@
 - [x] [Swift) Class VS Struct](https://co-dong.tistory.com/79#recentEntries)
 - [x] [Swift Localization 로컬라이징 처리하기!](https://i-colours-u.tistory.com/22)
 - [x] [새로운 iOS UI 개발 방법 feat. FlexLayout](https://okanghoon.medium.com/새로운-ios-ui-개발-feat-flexlayout-64d0ca8091a7)
-- [x] [FlexLayout (1)](https://green1229.tistory.com/242)
-- [x] [FlexLayout (2)](https://green1229.tistory.com/243)
-- [x] [FlexLayout (3)](https://green1229.tistory.com/244)
-- [x] [FlexLayout (4)](https://green1229.tistory.com/245)
-- [x] [FlexLayout (5)](https://green1229.tistory.com/246)
-- [x] [FlexLayout (6)](https://green1229.tistory.com/247)
-- [x] [FlexLayout (7)](https://green1229.tistory.com/248)
-- [x] [FlexLayout (2) zedd](https://zeddios.tistory.com/1253)
-- [x] [Swift) Metatype(.self, .Type, .Protocol) 정복하기 (1/2)](https://babbab2.tistory.com/151)
-- [x] [Swift) Metatype(.self, .Type, .Protocol) 정복하기 (2/2)](https://babbab2.tistory.com/152)
 - [x] [iOS Background Mode](https://medium.com/cashwalk/ios-background-mode-9bf921f1c55b)
 - [x] [Swift RandomAccessCollection 프로토콜 특징, 사용법](https://0urtrees.tistory.com/138)
 - [x] [Swift BidirectionalCollection, 양방향컬렉션 알아보기](https://0urtrees.tistory.com/120)
 - [x] [Mirror](https://green1229.tistory.com/358) 
-- [x] [generic](https://jusung.gitbook.io/the-swift-language-guide/language-guide/22-genericsSwift)
-- [x] 공식 문서 - 문자열과 문자 (Strings and Characters)](https://jeong9216.tistory.com/177)
+- [x] [공식 문서 - 문자열과 문자 (Strings and Characters)](https://jeong9216.tistory.com/177)
+- [x] [스위프트로 구현하는 자료구조 6: 우선순위 큐(Priority Queue)](https://jeonyeohun.tistory.com/327)
 ---
 
-- [x] [[Swift] Type Inference와 Type Annotation 속도 비교](https://jeong9216.tistory.com/518?category=1019144)
-- [x] 문자열 : https://batterflyyin.tistory.com/22
+
 - [x] delegation 데이터 전달 : https://roniruny.tistory.com/139
 
 - [x] AutoLayout programmatically : https://hyunsikwon.github.io/ios/iOS-AutoLayout-01/
