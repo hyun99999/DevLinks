@@ -464,6 +464,7 @@
 - [x] [Mirror](https://green1229.tistory.com/358) 
 - [x] [공식 문서 - 문자열과 문자 (Strings and Characters)](https://jeong9216.tistory.com/177)
 - [x] [스위프트로 구현하는 자료구조 6: 우선순위 큐(Priority Queue)](https://jeonyeohun.tistory.com/327)
+- [x] [notificationcenter removeObserver](https://developer.apple.com/documentation/foundation/notificationcenter/1413994-removeobserver)
 ---
 
 
