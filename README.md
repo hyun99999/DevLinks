@@ -137,6 +137,7 @@
 
 ### Class vs Struct
 - [x] [Swift : Struct vs Class](https://showcove.medium.com/swift-struct-vs-class-1-68cf9cbf87ca)
+- [x] [Colletcion은 Struct 타입인데 Heap에 저장되는 이유?](https://green1229.tistory.com/408)
 
 ### Clean Architechture
 - [x] [Clean Architecture](https://zeddios.tistory.com/1065)
