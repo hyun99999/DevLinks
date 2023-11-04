@@ -359,6 +359,7 @@
 - [x] [swift 5.0 변경사항 zedd](https://zeddios.tistory.com/680)
 - [x] [Swift 5.7: Optional Binding, Closure Type Inference, Clock, Noasync](https://blog.appsynth.net/swift-5-7-optional-binding-closure-type-inference-clock-noasync-657b583eb26d)
 - [x] [옵셔널 체이닝 (Optional Chaining)](https://jusung.gitbook.io/the-swift-language-guide/language-guide/16-optional-chaining#accessing-subscripts-of-optional-type)
+- [x] [[면접 준비] Swift + RxSwift](https://velog.io/@heyksw/iOS-면접-준비)
 
 ### Try
 - [x] [try? zedd](https://zeddios.tistory.com/650)
