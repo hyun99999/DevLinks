@@ -418,6 +418,7 @@
 ### View Life Cycle
 - [x] [cell Life Cycle](https://jinnify.tistory.com/58)
 - [x] [viewIsAppearing](https://zeddios.tistory.com/1390)
+- [x] [viewIsAppearing 알아보기](https://velog.io/@dlskawns96/viewIsAppearing-알아보기)
 
 ### Version Check
 - [x] [iOS ) 최신버전확인하기 / App Update zedd](https://zeddios.tistory.com/372)
