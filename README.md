@@ -345,6 +345,7 @@
 
 ### Some
 - [x] [some 키워드 (Opaque Types, body 프로퍼티)](https://ios-development.tistory.com/1047)
+- [x] [Swift - some 키워드란 무엇일까?](https://minosaekki.tistory.com/m/38)
 
 ### storyboard 없이 진행하기
 - [x] [Main.storyboard 없이 프로젝트 시작하기](https://developer-fury.tistory.com/41)
