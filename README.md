@@ -32,6 +32,7 @@
 - [Initialization](#initialization)
 - [iOS](#ios)
 - [Keyboard issue](#keyboard-issue)
+- [KWDC video](#kwdc-video)
 - [Lazy](#lazy)
 - [LiveActivity](#liveactivity)
 - [MapKit](#mapkit)
@@ -229,6 +230,10 @@
 ### Keyboard issue
 - [x] [터치해서 키보드 내리기 zedd](https://zeddios.tistory.com/m/132)
 - [x] [키보드에 따라 동적으로 움직이는 스크롤뷰](https://seizze.github.io/2019/11/17/iOS에서-키보드에-동적인-스크롤뷰-만들기.html)
+
+### KWDC video
+- [x] [Push Notifications Console 여행하기 - KWDC23](https://www.youtube.com/watch?v=LNgpmhesJ0s&t=440s)
+- [x] [WWDC23 Recap - KWDC23](https://www.youtube.com/watch?v=g_O9_TWfzQM)
 
 ### Lazy
 - [Swift의 lazy var](https://brunch.co.kr/@tilltue/71)
