@@ -65,6 +65,7 @@
 - [Watch](#watch)
 - [Widget](#widget)
 - [WWDC22](#wwdc22)
+- [WWDC23](#wwdc23)
 - [Xcode Update](#xcode-update)
 - [XCTest](#xctest)
 - [Other](#other)
@@ -448,6 +449,9 @@
 
 ### WWDC22
 - [x] [What's new in UIKit](https://developer.apple.com/wwdc22/10068)
+
+### WWDC23
+- [x] [Make features discoverable with TipKit](https://developer.apple.com/wwdc23/10229)
 
 ### Xcode Update
 - [x] [Xcode 14부터 바뀐 것들](https://medium.com/@jungkim/xcode-14부터-바뀐-것들-9dda016f25bd)
